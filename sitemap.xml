@@ -1,0 +1,13 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>localhost:1313/about/</loc><lastmod>2022-07-02T18:40:12&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>localhost:1313/courses/</loc><lastmod>2022-07-02T18:40:12&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>localhost:1313/talks/</loc><lastmod>2022-07-02T18:40:12&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>localhost:1313/</loc><lastmod>2022-07-02T11:40:12&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>localhost:1313/2022/f%C3%B6rvaltningsdomstolen-avsl%C3%A5r-huaweis-krav-fr%C3%A5n-uppbyggnad-av-svenskt-5g-n%C3%A4t/</loc><lastmod>2022-07-02T11:40:12&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>localhost:1313/posts/</loc><lastmod>2022-07-02T11:40:12&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>localhost:1313/publications/</loc><lastmod>2022-07-02T11:40:12&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>localhost:1313/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>localhost:1313/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

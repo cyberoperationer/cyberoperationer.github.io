@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Cyberspace Operations</title>
+        <link>localhost:1313/</link>
+        <description>Cyberspace Operations</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>g.huskaj@gcsp.ch (CO)</managingEditor>
+            <webMaster>g.huskaj@gcsp.ch (CO)</webMaster><lastBuildDate>Sat, 02 Jul 2022 11:40:12 &#43;0200</lastBuildDate>
+            <atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Förvaltningsdomstolen avslår Huaweis krav från uppbyggnad av svenskt 5G-nät</title>
+    <link>localhost:1313/2022/f%C3%B6rvaltningsdomstolen-avsl%C3%A5r-huaweis-krav-fr%C3%A5n-uppbyggnad-av-svenskt-5g-n%C3%A4t/</link>
+    <pubDate>Sat, 02 Jul 2022 11:40:12 &#43;0200</pubDate>
+    <author>CO</author>
+    <guid>localhost:1313/2022/f%C3%B6rvaltningsdomstolen-avsl%C3%A5r-huaweis-krav-fr%C3%A5n-uppbyggnad-av-svenskt-5g-n%C3%A4t/</guid>
+    <description><![CDATA[<p>Det har säkert inte undgått någon att Förvaltningsdomstolen har avslagit Huaweis krav från uppbyggnad av det svenska 5G-nätet (Melin, 2021).</p>
+<p>Orsaken? Sveriges säkerhet.</p>
+<p>Försvarsmakten och Säkerhetspolisen har flaggat att Huaweis utrustning kan vara en fara för Sveriges säkerhet (Melin, 2021; NyTeknik 2021; Sveriges Radio, 2021).</p>
+<p>Det är inte så konstigt: Tre lagar i Kina gör det svårt att kunna lita på utrustning och anställda från Huawei och ZTE: Cybersäkerhetslagen, Kontraspionagelagen och Underrättelselagen.</p>
+<p>Cybersäkerhetslagen ger &ldquo;tjänstemän mycket mer specifika befogenheter att få tillgång till och reglera många funktioner i företagsnätverk som kan vara användbara för underrättelser&rdquo; (Tanner, 2017).</p>
+<p>Kontraspionagelagen, och Artikel 4, kräver &ldquo;alla kinesiska medborgare att bevara, och inte skada, nationell säkerhet, och tvingar alla offentliga grupper, företag, organisationer och andra institutioner att ’förhindra och stoppa spionageaktiviteter och upprätthålla nationell säkerhet’&rdquo; (Tanner, 2017).</p>
+<p>Underrättelselagen tvingar &ldquo;upprepade gånger individer, organisationer och institutioner att hjälpa tjänstemän för Allmän Säkerhet och Statssäkerhet att utföra ett brett spektrum av ’underrättelsearbete’&rdquo; (Tanner, 2017). Artikel 14 i underrättelselagen ger i sin tur underrättelsetjänsten befogenheter att insistera på detta stöd: &ldquo;statliga underrättelsearbetsorgan kan, när de lagligen utför underrättelsearbete, kräva att berörda organ, organisationer eller medborgare ger nödvändigt stöd, hjälp och samarbete&rdquo; (Tanner, 2017).</p>
+<p>Den enkla slutsatsen är att varje lag för sig, men särskilt en kombination av dessa lagar, gör det oerhört svårt att lita på att utrustning och anställda inte skulle kunna utgöra ett underrättelsehot mot Sveriges säkerhet.</p>
+<p>Referenser</p>
+<p>Melin, U. (2021). Förvaltningsrätten avslår Huaweis yrkande om inhibition av villkor i PTS beslut om 5G-tillstånd. Hämtad från <a href="https://www.domstol.se/nyheter/2021/02/forvaltningsratten-avslar-huaweis-yrkande-om-inhibition-av-villkor-i-pts-beslut-om-5g-tillstand/" target="_blank" rel="noopener noreffer ">https://www.domstol.se/nyheter/2021/02/forvaltningsratten-avslar-huaweis-yrkande-om-inhibition-av-villkor-i-pts-beslut-om-5g-tillstand/</a>.</p>
+<p>NyTeknik. (2021). Huawei kommer fortsatt att vara utestängt från det svenska 5G-nätet. Hämtad från <a href="https://www.nyteknik.se/digitalisering/domstolen-inte-fel-av-pts-att-neka-huawei-7009462" target="_blank" rel="noopener noreffer ">https://www.nyteknik.se/digitalisering/domstolen-inte-fel-av-pts-att-neka-huawei-7009462</a>.</p>
+<p>Sveriges Radio. (2021). Förvaltningsrätten nobbar Huaweis krav. Hämtad från <a href="https://sverigesradio.se/artikel/forvaltningsratten-nobbar-huaweis-krav" target="_blank" rel="noopener noreffer ">https://sverigesradio.se/artikel/forvaltningsratten-nobbar-huaweis-krav</a>.</p>
+<p>Tanner, M.S. (2017). Beijing’s New National Intelligence Law: From Defense to Offense. Hämtad från <a href="https://www.lawfareblog.com/beijings-new-national-intelligence-law-defense-offense" target="_blank" rel="noopener noreffer ">https://www.lawfareblog.com/beijings-new-national-intelligence-law-defense-offense</a>.</p>
+]]></description>
+</item>
+</channel>
+</rss>
