@@ -4,3 +4,6 @@
 [submodule "themes/LoveIt"]
 	path = themes/LoveIt
 	url = https://github.com/dillonzq/LoveIt
+[submodule "Public"]
+	path = public
+	url = https://github.com/cyberoperationer/cyberoperationer.github.io/tree/master/public
