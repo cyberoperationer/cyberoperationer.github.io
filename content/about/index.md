@@ -29,9 +29,9 @@ math:
 > The basis for any reports or comments is open source information (OSI). The author cannot guarantee that additional information does not exist outside of the author's knowledge, that is, unknown (to the author) knowns (to others), according to Known Knowns, Known Unknowns, Unknown Knowns, Unknown Unknowns, also known as [Johari's Window](https://en.wikipedia.org/wiki/Johari_window).
 >
 > References indicate links to other sources and related author(s) opinions, comments, and/or views.
--->
 
 {{< highlight go >}} A bunch of code here {{< /highlight >}}
+-->
 
 
 **Bio:**  Gazmend is the [Head of Cyber Security](https://www.gcsp.ch/our-experts/mr-gazmend-huskaj) at the [Geneva Centre for Security Policy](https://www.gcsp.ch/) (GCSP).
