@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Cyberspace Operations</title>
-        <link>localhost:1313/posts/</link>
+        <link>https://cyberoperationer.github.io/posts/</link>
         <description>All Posts | Cyberspace Operations</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>g.huskaj@gcsp.ch (CO)</managingEditor>
-            <webMaster>g.huskaj@gcsp.ch (CO)</webMaster><lastBuildDate>Fri, 10 Mar 2023 11:40:12 &#43;0200</lastBuildDate><atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" /><item>
+            <webMaster>g.huskaj@gcsp.ch (CO)</webMaster><lastBuildDate>Fri, 10 Mar 2023 11:40:12 &#43;0200</lastBuildDate><atom:link href="https://cyberoperationer.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Offensive Cyberspace Operations for Cyber Security</title>
-    <link>localhost:1313/2023/offensive-cyberspace-operations-for-cyber-security/</link>
+    <link>https://cyberoperationer.github.io/2023/offensive-cyberspace-operations-for-cyber-security/</link>
     <pubDate>Fri, 10 Mar 2023 11:40:12 &#43;0200</pubDate>
     <author>CO</author>
-    <guid>localhost:1313/2023/offensive-cyberspace-operations-for-cyber-security/</guid>
+    <guid>https://cyberoperationer.github.io/2023/offensive-cyberspace-operations-for-cyber-security/</guid>
     <description><![CDATA[<h3 id="my-latest-articlehttpspapersacademic-conferencesorgindexphpiccwsarticleview1054952-at-the-19th-international-conference-on-cyber-warfare-and-security-towson-university-raises-the-question-of-what-are-offensive-cyberspace-operations-for-cyber-security-and-why-now"><a href="https://papers.academic-conferences.org/index.php/iccws/article/view/1054/952" target="_blank" rel="noopener noreffer ">My latest article</a> at the 19th International Conference on Cyber Warfare and Security, Towson University, raises the question of what are offensive cyberspace operations for cyber security, and why now?</h3>
 <p>Offensive cyberspace operations are actions taken by an organized group of people with a defined purpose. The purpose is to take down an adversary’s devices, infrastructure, and tools. By taking the fight to the adversary, it may be possible to make them switch stance: from conducting attacks to defending themselves. These actions ensure cyber security.</p>
 <p>There needs to be more research on the topic. It is essential to review the scientific literature and see what previous researchers have done and their thoughts at that time. Much information exists today thanks to mainstream media reporting on the topic. And this reporting is thanks to government agencies successfully halting adversary attacks.</p>

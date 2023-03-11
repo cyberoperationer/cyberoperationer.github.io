@@ -4,7 +4,7 @@
 ## git init
 ## git submodule add https://github.com/dillonzq/LoveIt themes/LoveIt
 
-baseURL = 'localhost:1313'
+baseURL = 'https://cyberoperationer.github.io'
 defaultContentLanguage = "en"
 languageCode = 'en-us'
 title = 'Cyberspace Operations'
