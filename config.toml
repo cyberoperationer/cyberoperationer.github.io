@@ -10,7 +10,7 @@ languageCode = 'en-us'
 title = 'Cyberspace Operations'
 
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+theme = "ananke"
 
 
 ## main menu here

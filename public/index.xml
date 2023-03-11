@@ -1,10 +1,12 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Cyberspace Operations</title>
-        <link>localhost:1313/</link>
-        <description>Cyberspace Operations</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>g.huskaj@gcsp.ch (CO)</managingEditor>
-            <webMaster>g.huskaj@gcsp.ch (CO)</webMaster>
-            <atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyberspace Operations</title>
+    <link>localhost:1313/</link>
+    <description>Recent content on Cyberspace Operations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>g.huskaj@gcsp.ch (CO)</managingEditor>
+    <webMaster>g.huskaj@gcsp.ch (CO)</webMaster><atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>
