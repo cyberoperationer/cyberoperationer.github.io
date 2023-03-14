@@ -1,8 +1,9 @@
 ---
-title: "New_post"
+title: "Digital Geopolitics: A Review of the Current State"
 date: 2023-03-14T17:20:31+01:00
-draft: true
+draft: false
 ---
+![Picture Courtesy of DALL·E - 3D render of the globe on digital geopolitics](/images/digGeopolitics.png)
 
 ### [My latest article](https://papers.academic-conferences.org/index.php/iccws/article/view/955/947) at the 19th International Conference on Cyber Warfare and Security, Towson University, raises the question what is the current state of digital geopolitics?
 
