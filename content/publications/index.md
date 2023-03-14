@@ -35,6 +35,12 @@ URL   [lazysizes](https://github.com/aFarkas/lazysizes)
 
 
 ### Reviewed Conference & Journal Publications
+Huskaj, G. (2023). [Digital Geopolitics: A Review of the Current State](https://doi.org/10.34190/iccws.18.1.955). Proceedings of the 18th International Conference on Cyber Warfare and Security, 18(1), 152–161. 
+
+Huskaj, G. (2023). [Offensive Cyberspace Operations for Cyber Security](https://doi.org/10.34190/iccws.18.1.1054). Proceedings of the 18th International Conference on Cyber Warfare and Security, 18(1), 476–479.
+
+Huskaj, G. (2023). [Opérations offensives dans le cyberespace ciblant l'Ukraine: Un cyber Pearl Harbor?](https://www.revuemilitairesuisse.ch) Revue Militaire Suisse. Numéro Thématique - Ukraine 2023. 
+
 Huskaj, G. (2022). [What is a Substantial Contribution to a Research Project in Offensive Cyberspace Operations that Merits Co-Authorship?](https://fhs.diva-portal.org/smash/record.jsf?dswid=-339&pid=diva2%3A1645501&c=5&searchType=SIMPLE&language=en&query=Huskaj&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all). In: Proceedings of the 17th International Conference on Cyber Warfare and Security: State University of New York at Albany Albany, New York, USA 17-18 March 2022 / [ed] Dean Robert P. Griffin, Dr. Unal Tatar and Dr. Benjamin Yankson, Reading, UK: ACI Academic Conferences International, 2022, p. 385-394.
 
 Bengtsson, J. & Huskaj, G. (2021). [The Manifestation of Chinese Strategies Into Offensive Cyberspace Operations Targeting Sweden](https://fhs.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=1&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=huskaj&language=en&pid=diva2%3A1576637&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-404). In: 20th European Conference on Cyber Warfare and Security / [ed] Dr. Thaddeus Eze, Dr. Lee Speakman and Dr. Cyril Onwubiko, Chester, 2021, p. 35-43.
