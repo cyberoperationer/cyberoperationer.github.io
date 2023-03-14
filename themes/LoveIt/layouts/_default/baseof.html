@@ -3,15 +3,6 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
     <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="robots" content="noodp" />
-        <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
-
-        {{- partial "head/meta.html" . -}}
-        {{- partial "head/link.html" . -}}
-        {{- partial "head/seo.html" . -}}
-        
         <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-X70NF1602K"></script>
 <script>
@@ -21,6 +12,17 @@
 
   gtag('config', 'G-X70NF1602K');
 </script>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
+        {{- partial "head/meta.html" . -}}
+        {{- partial "head/link.html" . -}}
+        {{- partial "head/seo.html" . -}}
+        
+
         
     </head>
     <body data-header-desktop="{{ .Site.Params.header.desktopMode }}" data-header-mobile="{{ .Site.Params.header.mobileMode }}">
