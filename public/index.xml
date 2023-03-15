@@ -4,9 +4,36 @@
         <link>https://cyberoperationer.github.io/</link>
         <description>Cyberspace Operations</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>g.huskaj@gcsp.ch (CO)</managingEditor>
-            <webMaster>g.huskaj@gcsp.ch (CO)</webMaster><lastBuildDate>Tue, 14 Mar 2023 17:20:31 &#43;0100</lastBuildDate>
+            <webMaster>g.huskaj@gcsp.ch (CO)</webMaster><lastBuildDate>Wed, 15 Mar 2023 14:41:58 &#43;0100</lastBuildDate>
             <atom:link href="https://cyberoperationer.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>The cyber threat landscape and its implications for civil organizations</title>
+    <link>https://cyberoperationer.github.io/2023/the-cyber-threat-landscape-and-its-implications-for-civil-organizations/</link>
+    <pubDate>Wed, 15 Mar 2023 14:41:58 &#43;0100</pubDate>
+    <author>CO</author>
+    <guid>https://cyberoperationer.github.io/2023/the-cyber-threat-landscape-and-its-implications-for-civil-organizations/</guid>
+    <description><![CDATA[<p>Today I had the honor of presenting on the cyber threat landscape and its implications for civil organizations. The increased interconnectedness provides many opportunities, but at the same time, threat actors and their behavior can put individuals and organizations at risk.</p>
+<p>The purpose was to:</p>
+<ul>
+<li>Minimize risks to staff, assets, and operations.</li>
+<li>Raise awareness of possible threats and related tactics, techniques, and procedures, and</li>
+<li>Present some cases to illustrate the impact of successful cyber attacks against companies.</li>
+</ul>
+<p>The objective of the training was to raise staff awareness. After the presentation, staff can:</p>
+<ul>
+<li>Understand the cyber threat landscape and its potential impact on civilian organizations;</li>
+<li>Describe the tactics, techniques, and procedures used by threat actors to enter an organization; and</li>
+<li>Take practical measures to prevent, avoid, or mitigate intrusion risks.</li>
+</ul>
+<p>Cyber Security topics that were covered included:</p>
+<ul>
+<li>Cyber security at home,</li>
+<li>In the office, and</li>
+<li>During travel.</li>
+</ul>
+]]></description>
+</item>
+<item>
     <title>Digital Geopolitics: A Review of the Current State</title>
     <link>https://cyberoperationer.github.io/2023/digital-geopolitics-a-review-of-the-current-state/</link>
     <pubDate>Tue, 14 Mar 2023 17:20:31 &#43;0100</pubDate>
