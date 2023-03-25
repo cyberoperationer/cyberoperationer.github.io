@@ -1,0 +1,61 @@
+name: End-to-end Tests (Browser)
+
+on:
+  push:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  e2e-browser:
+    if: github.actor != 'dependabot[bot]'
+    # Ensure we timeout reasonably quickly:
+    timeout-minutes: 30
+    runs-on: ${{ matrix.os }}
+    environment:
+      name: ${{ matrix.environment-name }}
+    continue-on-error: ${{ matrix.experimental }}
+    strategy:
+      matrix:
+        # Available OS's: https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
+        os: [ubuntu-latest, windows-latest]
+        # The Node version does not influence how well our tests run in the browser,
+        # so we only need to test in one.
+        node-version: [16.x]
+        environment-name: ["ESS PodSpaces"]
+        experimental: [false]
+        include:
+          - environment-name: "ESS Dev-Next"
+            experimental: true
+            node-version: 16.x
+            os: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: "npm"
+          cache-dependency-path: "**/package-lock.json"
+      # install
+      - run: npm ci --ignore-scripts
+      - run: npx playwright install --with-deps
+      # build
+      - run: npm run build
+      # setup
+      - run: npm run test:e2e:browser:build
+      # test
+      - run: npm run test:e2e:browser
+        env:
+          E2E_TEST_ENVIRONMENT: ${{ matrix.environment-name }}
+          E2E_TEST_POD: ${{ secrets.E2E_TEST_POD }}
+          E2E_TEST_IDP: ${{ secrets.E2E_TEST_IDP }}
+          E2E_TEST_USER: ${{ secrets.E2E_TEST_USER }}
+          E2E_TEST_PASSWORD: ${{ secrets.E2E_TEST_PASSWORD }}
+      - name: Archive browser-based end-to-end test request logs
+        uses: actions/upload-artifact@v3
+        if: failure()
+        continue-on-error: true
+        with:
+          name: playwright-output
+          path: test-results/

@@ -1,0 +1,83 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "commonjs",
+    "lib": ["es6", "dom"],
+    "declaration": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true,
+    // https://github.com/microsoft/TypeScript/wiki/Performance#controlling-types-inclusion:
+    "types": ["jest"],
+    "esModuleInterop": true,
+    // Prevent developers on different OSes from running into problems:
+    "forceConsistentCasingInFileNames": true,
+    // Advanced Options
+    "stripInternal": true
+  },
+  "typedocOptions": {
+    "out": "docs/api/source/api",
+    "hideInPageTOC": true,
+    "entryPoints": [
+      // The source files of everything listed under `exports` in our package.json
+      // (i.e. public API's that should be documented) should be listed here:
+      "src/interfaces.ts",
+      "src/resource/resource.ts",
+      "src/resource/solidDataset.ts",
+      "src/resource/file.ts",
+      "src/resource/mock.ts",
+      "src/thing/thing.ts",
+      "src/thing/get.ts",
+      "src/thing/set.ts",
+      "src/thing/add.ts",
+      "src/thing/remove.ts",
+      "src/thing/build.ts",
+      "src/thing/mock.ts",
+      "src/acl/acl.ts",
+      "src/acl/agent.ts",
+      "src/acl/group.ts",
+      "src/acl/class.ts",
+      "src/acl/mock.ts",
+      "src/universal/index.ts",
+      "src/acp/ess2.ts",
+      "src/acp/ess1.ts",
+      "src/rdfjs.ts",
+      "src/profile/jwks.ts",
+      "src/profile/webid.ts",
+      "src/formats/index.ts"
+    ],
+    "exclude": [
+      "node_modules/**",
+      "**/*.test.ts",
+      // Internal helpers:
+      "**/*.internal.ts",
+      // End-to-end tests:
+      "e2e/**",
+      // Re-exported functions are already documented in their own modules:
+      "src/index.ts",
+      // Constants are only used internally:
+      "src/constants.ts",
+      // Helper methods for working with raw RDF internally:
+      "src/datatypes.ts",
+      // Behind-the-scenes auto-detection of the right fetcher to use:
+      "src/fetcher.ts",
+      // Helper methods for working with raw Turtle internally:
+      "src/formats/turtle.ts",
+      "src/formats/jsonLd.ts"
+    ],
+    "theme": "markdown",
+    "readme": "none",
+    "entryDocument": "index.md"
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": [
+    "**/node_modules",
+    // These end-to-end tests reference code in `.codesandbox`,
+    // which is not part of this project and should not be compiled together with it.
+    // Not excluding this will lead to the root of the repository being used
+    // as the root directory for compilation (instead of /src),
+    // meaning that files that would otherwise be included in /dist directly
+    // (e.g. dist/index.d.ts) will then be built to /dist/src.
+    "e2e"
+  ]
+}
