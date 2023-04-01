@@ -9,7 +9,7 @@ const auth = {
     if (!this.session.info.isLoggedIn) {
       try {
         await this.session.login({
-          oidcIssuer: 'https://solidcommunity.net', // Change this to your preferred Solid OIDC issuer
+          oidcIssuer: 'https://inrupt.net', // Change this to your preferred Solid OIDC issuer
           redirectUrl: window.location.href, // After login, the user will be redirected back to the current page
         });
       } catch (error) {
