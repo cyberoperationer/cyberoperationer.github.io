@@ -3,6 +3,7 @@ title: "Digital Authoritarianism: A Summary"
 date: 2023-04-25T21:12:28+02:00
 draft: false
 ---
+![Picture Courtesy of Midjourney](/images/The_eye_of_big_brother_in_a_dystopian_cyberspace_connec.png)
 
 ### On 24 April 2023, The US Director of National Intelligence (DNI) Dr. Avril Haines was invited to a public conversation with Carnegie’s Dan Baer on combatting digital authoritarianism. This is a summary of her presentation. The entire presentation including the Q&A session is on [Carnegie Endowment's YouTube-page](https://www.youtube.com/watch?v=mD64C-DUNYo).
 
