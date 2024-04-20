@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Cyberspace Operations</title>
+        <link>https://cyberoperationer.github.io/tags/</link>
+        <description>Tags - Tag - Cyberspace Operations</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>g.huskaj@gcsp.ch (CO)</managingEditor>
+            <webMaster>g.huskaj@gcsp.ch (CO)</webMaster><atom:link href="https://cyberoperationer.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
