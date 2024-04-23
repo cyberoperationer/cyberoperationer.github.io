@@ -35,6 +35,15 @@ URL   [lazysizes](https://github.com/aFarkas/lazysizes)
 
 
 ### Reviewed Conference & Journal Publications
+
+Säberg, K., & Huskaj, G. (2024). [Intelligence Agencies’ move to the Cloud: Challenges and Opportunities](https://doi.org/10.34190/iccws.19.1.2008). Proceedings of the 19th International Conference on Cyber Warfare and Security, 19(1).
+
+Lilja, J., Eishayea, E., & Huskaj, G. (2024). [Defining the "Cyber-Pearl Harbor" - Validation of the DSLP-framework in "Offensive Cyberspace Operations Targeting Ukraine: A Cyber Pearl-Harbor"](https://doi.org/10.34190/iccws.19.1.2035). Proceedings of the 19th International Conference on Cyber Warfare and Security, 19(1).
+
+Huskaj, G., & Axelsson, S. (2023). [A Whole-of-Society Approach to Organise for Offensive Cyberspace Operations: The Case of the Smart State Sweden](https://doi.org/10.34190/eccws.22.1.1188). Proceedings of the 22nd European Conference on Cyber Warfare and Security, 22(1).
+
+Huskaj, G., & Axelsson, S. (2023). [A State-of-the-art of Scientific Research on Disinformation](https://doi.org/10.34190/eccws.22.1.1201). Proceedings of the 22nd European Conference on Cyber Warfare and Security, 22(1).
+
 Huskaj, G. (2023). [Digital Geopolitics: A Review of the Current State](https://doi.org/10.34190/iccws.18.1.955). Proceedings of the 18th International Conference on Cyber Warfare and Security, 18(1), 152–161. 
 
 Huskaj, G. (2023). [Offensive Cyberspace Operations for Cyber Security](https://doi.org/10.34190/iccws.18.1.1054). Proceedings of the 18th International Conference on Cyber Warfare and Security, 18(1), 476–479.
