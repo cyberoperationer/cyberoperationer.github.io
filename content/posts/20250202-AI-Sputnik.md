@@ -18,3 +18,5 @@ If DeepSeek had developed an entirely new model, the achievement would align wit
 Further empirical analysis is required as additional technical details emerge, particularly from independent investigations by entities such as researchers at [Hugging Face](https://huggingface.co/blog/open-r1). 
 
 This case illustrates that organizations can, through adaptation and distillation, develop specialized models optimized for targeted applications at a fraction of the cost of larger, more complex models.
+
+
