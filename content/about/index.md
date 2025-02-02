@@ -34,7 +34,7 @@ math:
 -->
 
 
-**Bio:**  Gazmend is the [Head of Cyber Security](https://www.gcsp.ch/our-experts/mr-gazmend-huskaj) at the [Geneva Centre for Security Policy](https://www.gcsp.ch/) (GCSP).
+**Bio:**  Gazmend is the [Head of Global Cyber and Security Policy](https://www.gcsp.ch/our-experts/dr-gazmend-huskaj) at the [Geneva Centre for Security Policy](https://www.gcsp.ch/) (GCSP).
 Previously, he was a doctoral student in Cyberspace Operations at the [Swedish Defence University](https://www.fhs.se/en/swedish-defence-university.html).
 Additionally, he was Director of Intelligence on Cyber-related issues in the [Swedish Armed Forces](https://www.forsvarsmakten.se/en/).
 Prior to that, he was Head of the [United Nation's](https://www.un.org/en/) Intelligence Cell in a mission area for several years.
@@ -47,7 +47,7 @@ He has also academic training from [Cranfield University](https://www.cranfield.
 He was Chair of Research & Development at [ISACA Swedish Chapter](https://engage.isaca.org/swedenchapter/home) and is a [Certified Information Security Manager (CISM)](https://www.isaca.org/en/credentialing/cism).
 Additionally, he was Director Intelligence & Lead Analyst in [Paliscope](https://www.paliscope.com), a company that is accelerating the Intelligence cycle, and prior that, [Cyber Security Consultant at PwC Sweden](https://www.pwc.se/cyber).  
  
-His PhD project focuses on Offensive Cyberspace Operations.
+He defended his PhD with the thesis titled "Offensive Cyberspace Operations: Implications for Sweden.""
 
 
 
