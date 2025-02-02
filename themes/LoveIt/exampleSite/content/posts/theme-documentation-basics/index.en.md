@@ -801,7 +801,7 @@ languageName = "English"
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
+  taxonomy = ["HTML"]
 ```
 
 {{< admonition >}}
