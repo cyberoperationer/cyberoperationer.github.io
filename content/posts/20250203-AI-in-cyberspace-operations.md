@@ -4,7 +4,7 @@ date: 2025-02-03T12:24:05+01:00
 draft: false
 ---
 
-![Picture Courtesy Dagens Industry](/images/20250203-AI-Cyberspace-operations.png)
+![Picture Courtesy Midjourney](/images/20250203-AI-Cyberspace-operations.png)
 
 ## Policy Implications of State-backed APTs’ Use of AI in Cyberspace
 
