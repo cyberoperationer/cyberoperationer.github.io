@@ -3,7 +3,23 @@
         <title>All Posts - Cyberspace Operations</title>
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Cyberspace Operations</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 17:57:01 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 12:24:05 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>20250203 AI in Cyberspace Operations</title>
+    <link>http://localhost:1313/2025/20250203-ai-in-cyberspace-operations/</link>
+    <pubDate>Mon, 03 Feb 2025 12:24:05 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/2025/20250203-ai-in-cyberspace-operations/</guid>
+    <description><![CDATA[<p></p>
+<p>**Policy Implications of State-backed APTs’ Use of AI in Cyberspace</p>
+<p>Recent confirmations by Google and OpenAI reveal that state-backed APT groups are increasingly employing AI tools—such as Gemini and ChatGPT—to expedite reconnaissance, malware development, and influence operations. AI-tools have the capabilities to <a href="https://www.scworld.com/news/googles-big-sleep-llm-agent-discovers-exploitable-bug-in-sqlite" target="_blank" rel="noopener noreffer ">discover zero-days</a>.</p>
+<p>Current evidence indicates that several <a href="https://www.bleepingcomputer.com/news/security/google-says-hackers-abuse-gemini-ai-to-empower-their-attacks/" target="_blank" rel="noopener noreffer ">state-sponsored APT groups</a> utilize AI-tools to enhance cyber espionage, phishing, and <a href="https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/" target="_blank" rel="noopener noreffer ">influence campaigns</a>. Certain threat actors are reportedly employing generative AI for targeted reconnaissance on critical installations, scripting automated attacks, and establishing persistent post-compromise footholds. Similarly, some groups have been observed fabricating job applications to infiltrate organizations under false identities. In contrast, other adversaries, while exploring AI-enhanced malware modification and encryption techniques, appear to engage less with externally developed AI tools—likely due to heightened operational security considerations.</p>
+<p>These trends underscore two critical implications. First, the integration of AI in cyberspace operations reduces the necessity for advanced coding skills, thereby lowering the technical threshold for adversaries and enabling rapid adaptation of malware. Second, the ongoing challenges of jailbreaking AI models—demonstrated in security assessments of certain systems—pose significant risks that warrant immediate attention.</p>
+<p>Threat actors seeking to exploit AI tools to advance their strategic objectives should not come as a surprise to policymakers or technology leaders. While AI tools are likely to increase both the pace and sophistication of cyberattacks, it is imperative for policymakers to recognize that the rapid pace of technological change is compressing policy lifespans. Whereas policies once spanned five or ten years, today’s interconnected and AI-driven environment may require revisions every three years—or even more frequently.</p>
+<p>The proactive threat intelligence sharing undertaken by companies such as Google and OpenAI represents a crucial first step toward situational awareness. By rapidly identifying emerging threats, these initiatives inform more agile policy responses. This approach is essential where the window for effective policy intervention is shrinking, and traditional long-term policy frameworks may no longer suffice.</p>
+<p>Photo by Midjourney.</p>
+]]></description>
+</item>
+<item>
     <title>A Sputnik Moment in AI?</title>
     <link>http://localhost:1313/2025/a-sputnik-moment-in-ai/</link>
     <pubDate>Sun, 02 Feb 2025 17:57:01 &#43;0100</pubDate>
@@ -322,20 +338,6 @@ Authoritarian States are increasingly using digital technology to promote author
 <li>During travel.</li>
 </ul>
 <p>Thank you to the organization for inviting me to speak about an important topic!</p>
-]]></description>
-</item>
-<item>
-    <title>Digital Geopolitics: A Review of the Current State</title>
-    <link>http://localhost:1313/2023/digital-geopolitics-a-review-of-the-current-state/</link>
-    <pubDate>Tue, 14 Mar 2023 17:20:31 &#43;0100</pubDate>
-    <author>Author</author>
-    <guid>http://localhost:1313/2023/digital-geopolitics-a-review-of-the-current-state/</guid>
-    <description><![CDATA[<p></p>
-<h3 id="my-latest-articlehttpspapersacademic-conferencesorgindexphpiccwsarticleview955947-at-the-19th-international-conference-on-cyber-warfare-and-security-towson-university-raises-the-question-what-is-the-current-state-of-digital-geopolitics"><a href="https://papers.academic-conferences.org/index.php/iccws/article/view/955/947" target="_blank" rel="noopener noreffer ">My latest article</a> at the 19th International Conference on Cyber Warfare and Security, Towson University, raises the question what is the current state of digital geopolitics?</h3>
-<p>There is no technology that has transformed societies in the ways that information- and telecommunications technology (ITC) has. The increased pace of digitalization has opened opportunities to conduct e-commerce, e-governance, streamline processes, but also transformed intelligence, surveillance, reconnaissance, and command and control of joint military operations.</p>
-<p>There needs to be more research on the topic. It is essential to review the scientific literature and see what has previously done.</p>
-<p>The review shows cyberspace affects all domains of human life and the political, military, economic, social, information and infrastructure systems and subsystems. Technology and Information are the two key areas that are affecting digital geopolitics.</p>
-<p>The article aims to raise awareness among policymakers, authorities, and the public about how technologies are used for disinformation, foreign interference, and freedom of expression.</p>
 ]]></description>
 </item>
 </channel>
