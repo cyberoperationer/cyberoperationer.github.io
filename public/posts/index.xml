@@ -3,19 +3,32 @@
         <title>All Posts - Cyberspace Operations</title>
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Cyberspace Operations</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 12:24:05 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>20250203 AI in Cyberspace Operations</title>
-    <link>http://localhost:1313/2025/20250203-ai-in-cyberspace-operations/</link>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Feb 2025 21:30:25 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Rapid, Affordable AI: Transforming Cost, Speed, and Strategic Capability</title>
+    <link>http://localhost:1313/2025/rapid-affordable-ai-transforming-cost-speed-and-strategic-capability/</link>
+    <pubDate>Sun, 16 Feb 2025 21:30:25 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/2025/rapid-affordable-ai-transforming-cost-speed-and-strategic-capability/</guid>
+    <description><![CDATA[<p></p>
+<p>Artificial intelligence is advancing at an unprecedented pace. A 2019 report by Stanford, McKinsey &amp; Company, Google, PwC, OpenAI, and others revealed that while AI performance once doubled roughly every two years—consistent with Moore’s Law—since 2012, <a href="https://www.computerweekly.com/news/252475371/Stanford-University-finds-that-AI-is-outpacing-Moores-Law" target="_blank" rel="noopener noreffer ">compute has been doubling every 3.4 months</a>. This dramatic acceleration is evident not only in the frequent rollout of new models by tech giants but also in the emergence of innovative competitors.</p>
+<p>This rapid advancement continues. Recent reports have highlighted a breakthrough: a state-of-the-art reasoning model, whose performance rivals OpenAI’s O1, was developed for <a href="https://mashable.com/article/openai-o1-reasoning-model-rival-less-than-50-dollars" target="_blank" rel="noopener noreffer ">less than $50 and wastrained in just 26 minutes</a>. Researchers achieved these cost reductions through a novel approach detailed in a recent <a href="https://arxiv.org/pdf/2501.19393" target="_blank" rel="noopener noreffer ">arXiv preprint</a>. Instead of overhauling existing architectures, their method optimizes the way AI models process information at the moment of use—effectively unlocking and scaling the inherent reasoning capabilities of large pretrained models while slashing computational demands.</p>
+<p>Adding further momentum to this trend is <a href="https://novasky-ai.github.io/posts/sky-t1/" target="_blank" rel="noopener noreffer ">Novasky AI’s new Sky-T1 model</a>. According to the company, Sky-T1 combines innovative training techniques with streamlined architectures to deliver scalable, on-demand reasoning capabilities at a remarkably low cost. Together, these advancements underscore a paradigm shift: affordable, fast-to-deploy, and high-performance AI is now within reach.</p>
+<p>Yet, as with any disruptive technology, these breakthroughs present a double-edged sword. While they promise to revolutionize sectors ranging from cybersecurity to financial services by making sophisticated AI tools accessible to a broader range of users, they also raise critical security concerns. The same low-cost, high-performance systems could be exploited by threat actors—including state-sponsored entities and terrorists—potentially enhancing their operational capabilities.</p>
+<p>For policymakers and security strategists, this accelerating evolution in AI calls for a dual approach. On one hand, regulatory policies must be developed to mitigate misuse and protecting against emerging threats. On the other, strategic investments in innovative AI for deterrence and defense are essential to counterbalance adversarial capabilities.</p>
+]]></description>
+</item>
+<item>
+    <title>Policy Implications of State-backed APTs’ Use of AI in Cyberspace</title>
+    <link>http://localhost:1313/2025/policy-implications-of-state-backed-apts-use-of-ai-in-cyberspace/</link>
     <pubDate>Mon, 03 Feb 2025 12:24:05 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/2025/20250203-ai-in-cyberspace-operations/</guid>
+    <guid>http://localhost:1313/2025/policy-implications-of-state-backed-apts-use-of-ai-in-cyberspace/</guid>
     <description><![CDATA[<p></p>
-<p>**Policy Implications of State-backed APTs’ Use of AI in Cyberspace</p>
 <p>Recent confirmations by Google and OpenAI reveal that state-backed APT groups are increasingly employing AI tools—such as Gemini and ChatGPT—to expedite reconnaissance, malware development, and influence operations. AI-tools have the capabilities to <a href="https://www.scworld.com/news/googles-big-sleep-llm-agent-discovers-exploitable-bug-in-sqlite" target="_blank" rel="noopener noreffer ">discover zero-days</a>.</p>
 <p>Current evidence indicates that several <a href="https://www.bleepingcomputer.com/news/security/google-says-hackers-abuse-gemini-ai-to-empower-their-attacks/" target="_blank" rel="noopener noreffer ">state-sponsored APT groups</a> utilize AI-tools to enhance cyber espionage, phishing, and <a href="https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/" target="_blank" rel="noopener noreffer ">influence campaigns</a>. Certain threat actors are reportedly employing generative AI for targeted reconnaissance on critical installations, scripting automated attacks, and establishing persistent post-compromise footholds. Similarly, some groups have been observed fabricating job applications to infiltrate organizations under false identities. In contrast, other adversaries, while exploring AI-enhanced malware modification and encryption techniques, appear to engage less with externally developed AI tools—likely due to heightened operational security considerations.</p>
 <p>These trends underscore two critical implications. First, the integration of AI in cyberspace operations reduces the necessity for advanced coding skills, thereby lowering the technical threshold for adversaries and enabling rapid adaptation of malware. Second, the ongoing challenges of jailbreaking AI models—demonstrated in security assessments of certain systems—pose significant risks that warrant immediate attention.</p>
 <p>Threat actors seeking to exploit AI tools to advance their strategic objectives should not come as a surprise to policymakers or technology leaders. While AI tools are likely to increase both the pace and sophistication of cyberattacks, it is imperative for policymakers to recognize that the rapid pace of technological change is compressing policy lifespans. Whereas policies once spanned five or ten years, today’s interconnected and AI-driven environment may require revisions every three years—or even more frequently.</p>
-<p>The proactive threat intelligence sharing undertaken by companies such as Google and OpenAI represents a crucial first step toward situational awareness. By rapidly identifying emerging threats, these initiatives inform more agile policy responses. This approach is essential where the window for effective policy intervention is shrinking, and traditional long-term policy frameworks may no longer suffice.</p>
+<p>The proactive threat intelligence sharing undertaken by companies such as Google and OpenAI represents a crucial first step toward situational awareness. By rapidly identifying and disclosing emerging threats, these initiatives inform more agile policy responses. This approach is essential where the window for effective policy intervention is shrinking, and traditional long-term policy frameworks may no longer suffice.</p>
 <p>Photo by Midjourney.</p>
 ]]></description>
 </item>
@@ -310,34 +323,6 @@ Authoritarian States are increasingly using digital technology to promote author
 <p><a href="https://foreignpolicy.com/2020/12/21/china-stolen-us-data-exposed-cia-operatives-spy-networks/" target="_blank" rel="noopener noreffer ">Foreign Policy states</a>, “During the OPM breach, Chinese hackers stole detailed, often highly sensitive personnel data from 21.5 million current and former U.S. officials, their spouses, and job applicants, including health, residency, employment, fingerprint, and financial data.”</p>
 <p>The difference between the OPM hack and TikTok is that current and future government staff freely provide this kind of information, especially since TikTok collects all of the information, as noted above. At the same time, those aware of TikTok’s capabilities can conduct eavesdropping attacks and not need to “hack” into government databases (although if vulnerabilities exist, that is also likely to happen).</p>
 <p>Therefore, the U.K. Cabinet Office announcing a “<a href="https://www.gov.uk/government/news/tiktok-banned-on-uk-government-devices-as-part-of-wider-app-review" target="_blank" rel="noopener noreffer ">precautionary ban on TikTok on government</a>” electronic devices does not protect only sensitive information but also government staff: current and future.</p>
-]]></description>
-</item>
-<item>
-    <title>The Cyber Threat Landscape and its Implications for Civil Organizations</title>
-    <link>http://localhost:1313/2023/the-cyber-threat-landscape-and-its-implications-for-civil-organizations/</link>
-    <pubDate>Wed, 15 Mar 2023 14:41:58 &#43;0100</pubDate>
-    <author>Author</author>
-    <guid>http://localhost:1313/2023/the-cyber-threat-landscape-and-its-implications-for-civil-organizations/</guid>
-    <description><![CDATA[<h3 id="today-i-had-the-honor-of-presenting-on-the-cyber-threat-landscape-and-its-implications-for-civil-organizations-the-increased-interconnectedness-provides-many-opportunities-but-at-the-same-time-threat-actors-and-their-behavior-can-put-individuals-and-organizations-at-risk">Today I had the honor of presenting on the cyber threat landscape and its implications for civil organizations. The increased interconnectedness provides many opportunities, but at the same time, threat actors and their behavior can put individuals and organizations at risk.</h3>
-<p>The purpose was to:</p>
-<ul>
-<li>Minimize risks to staff, assets, and operations.</li>
-<li>Raise awareness of possible threats and related tactics, techniques, and procedures, and</li>
-<li>Present some cases to illustrate the impact of successful cyber attacks against companies.</li>
-</ul>
-<p>The objective of the training was to raise staff awareness. After the presentation, staff can:</p>
-<ul>
-<li>Understand the cyber threat landscape and its potential impact on civilian organizations;</li>
-<li>Describe the tactics, techniques, and procedures used by threat actors to enter an organization; and</li>
-<li>Take practical measures to prevent, avoid, or mitigate intrusion risks.</li>
-</ul>
-<p>Cyber Security topics that were covered included:</p>
-<ul>
-<li>Cyber security at home,</li>
-<li>In the office, and</li>
-<li>During travel.</li>
-</ul>
-<p>Thank you to the organization for inviting me to speak about an important topic!</p>
 ]]></description>
 </item>
 </channel>
