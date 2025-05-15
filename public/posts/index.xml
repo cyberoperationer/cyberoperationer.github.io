@@ -3,17 +3,32 @@
         <title>All Posts - Cyberspace Operations</title>
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Cyberspace Operations</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Feb 2025 21:30:25 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 08:05:18 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>20250515 Safeguarding Innovation</title>
+    <link>http://localhost:1313/2025/20250515-safeguarding-innovation/</link>
+    <pubDate>Thu, 15 May 2025 08:05:18 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/2025/20250515-safeguarding-innovation/</guid>
+    <description><![CDATA[<p></p>
+<p>On 13 May 2025, I had the privilege of joining the event <a href="https://kista.com/events/safeguarding-innovation-in-uncertain-times/" target="_blank" rel="noopener noreffer ">Safeguarding Innovation in Uncertain Times</a> hosted by Kista Science City, where I contributed a keynote address on the theme of organizational resilience in today’s fragmented and hybrid threat landscape.</p>
+<p>I argue that the core challenge companies face is structural, cognitive, and naturally, technological. We operate in a world where power is increasingly diffuse, information is often designed to disorient, and decision-making is hindered by the absence of shared structure.</p>
+<p>The keynote offered a reflection on how resilience must now be reframed as a capacity to navigate strategic disorder. Drawing on insights from institutional theory and cyber practice, I argued that resilience requires more than technical security controls. It demands institutional thinking, cognitive clarity, and deliberate routines that stabilize expectations even in rapidly changing environments.</p>
+<p>In the absence of hegemonic order—whether in geopolitics or within markets—structure must emerge from norms, shared awareness, and operational coherence. That task increasingly falls to firms themselves.</p>
+<p>The invitation to speak at this event underscored that the private sector is a principal arena for shaping the norms, practices, and collaborative structures needed to build resilience in today’s global (in)security environment.</p>
+<p><em>If your institution is navigating similar questions, I welcome further dialogue.</em></p>
+]]></description>
+</item>
+<item>
     <title>Rapid, Affordable AI: Transforming Cost, Speed, and Strategic Capability</title>
     <link>http://localhost:1313/2025/rapid-affordable-ai-transforming-cost-speed-and-strategic-capability/</link>
     <pubDate>Sun, 16 Feb 2025 21:30:25 &#43;0100</pubDate>
     <author>Author</author>
     <guid>http://localhost:1313/2025/rapid-affordable-ai-transforming-cost-speed-and-strategic-capability/</guid>
     <description><![CDATA[<p></p>
-<p>Artificial intelligence is advancing at an unprecedented pace. A 2019 report by Stanford, McKinsey &amp; Company, Google, PwC, OpenAI, and others revealed that while AI performance once doubled roughly every two years—consistent with Moore’s Law—since 2012, <a href="https://www.computerweekly.com/news/252475371/Stanford-University-finds-that-AI-is-outpacing-Moores-Law" target="_blank" rel="noopener noreffer ">compute has been doubling every 3.4 months</a>. This dramatic acceleration is evident not only in the frequent rollout of new models by tech giants but also in the emergence of innovative competitors.</p>
-<p>This rapid advancement continues. Recent reports have highlighted a breakthrough: a state-of-the-art reasoning model, whose performance rivals OpenAI’s O1, was developed for <a href="https://mashable.com/article/openai-o1-reasoning-model-rival-less-than-50-dollars" target="_blank" rel="noopener noreffer ">less than $50 and wastrained in just 26 minutes</a>. Researchers achieved these cost reductions through a novel approach detailed in a recent <a href="https://arxiv.org/pdf/2501.19393" target="_blank" rel="noopener noreffer ">arXiv preprint</a>. Instead of overhauling existing architectures, their method optimizes the way AI models process information at the moment of use—effectively unlocking and scaling the inherent reasoning capabilities of large pretrained models while slashing computational demands.</p>
+<p>Artificial intelligence is advancing at an unprecedented pace. A 2019 <a href="https://www.computerweekly.com/news/252475371/Stanford-University-finds-that-AI-is-outpacing-Moores-Law" target="_blank" rel="noopener noreffer ">report</a> by Stanford, McKinsey &amp; Company, Google, PwC, OpenAI, and others revealed that while AI performance once doubled roughly every two years—consistent with Moore’s Law—since 2012, <a href="https://www.computerweekly.com/news/252475371/Stanford-University-finds-that-AI-is-outpacing-Moores-Law" target="_blank" rel="noopener noreffer ">compute has been doubling every 3.4 months</a>. This dramatic acceleration is evident not only in the frequent rollout of new models by tech giants but also in the emergence of innovative competitors.</p>
+<p>This rapid advancement continues. Recent reports have highlighted a breakthrough: a state-of-the-art reasoning model, whose performance rivals OpenAI’s O1, was developed for <a href="https://mashable.com/article/openai-o1-reasoning-model-rival-less-than-50-dollars" target="_blank" rel="noopener noreffer ">less than $50 and was trained in just 26 minutes</a>. Researchers achieved these cost reductions through a novel approach detailed in a recent <a href="https://arxiv.org/pdf/2501.19393" target="_blank" rel="noopener noreffer ">arXiv preprint</a>. Instead of overhauling existing architectures, their method optimizes the way AI models process information at the moment of use—effectively unlocking and scaling the inherent reasoning capabilities of large pretrained models while slashing computational demands.</p>
 <p>Adding further momentum to this trend is <a href="https://novasky-ai.github.io/posts/sky-t1/" target="_blank" rel="noopener noreffer ">Novasky AI’s new Sky-T1 model</a>. According to the company, Sky-T1 combines innovative training techniques with streamlined architectures to deliver scalable, on-demand reasoning capabilities at a remarkably low cost. Together, these advancements underscore a paradigm shift: affordable, fast-to-deploy, and high-performance AI is now within reach.</p>
-<p>Yet, as with any disruptive technology, these breakthroughs present a double-edged sword. While they promise to revolutionize sectors ranging from cybersecurity to financial services by making sophisticated AI tools accessible to a broader range of users, they also raise critical security concerns. The same low-cost, high-performance systems could be exploited by threat actors—including state-sponsored entities and terrorists—potentially enhancing their operational capabilities.</p>
+<p>Yet, as with any disruptive technology, these breakthroughs present a double-edged sword. While they promise to revolutionize sectors ranging from cybersecurity to financial services by making sophisticated AI tools accessible to a broader range of users, they also raise critical security concerns. The same low-cost, high-performance systems could be exploited by threat actors enhancing their operational capabilities.</p>
 <p>For policymakers and security strategists, this accelerating evolution in AI calls for a dual approach. On one hand, regulatory policies must be developed to mitigate misuse and protecting against emerging threats. On the other, strategic investments in innovative AI for deterrence and defense are essential to counterbalance adversarial capabilities.</p>
 ]]></description>
 </item>
@@ -272,57 +287,6 @@ Authoritarian States are increasingly using digital technology to promote author
 <p>This section presents a detailed model of digital repression based on the presentation.
 </p>
 <p>Due to China being an earlier adopter of Digital Controls, it is more mature in controlling information flows. Russia, on the other hand, is working to get there. Finally, Iran will likely need a higher level of maturity in digital controls and therefore currently relies on simply shutting down their portion of the internet combined with deterrence by punishment and fear manifesting in for example, <a href="https://www.theguardian.com/world/ng-interactive/2022/oct/31/mapping-irans-unrest-how-mahsa-aminis-death-led-to-nationwide-protests" target="_blank" rel="noopener noreffer ">crackdowns</a>.</p>
-]]></description>
-</item>
-<item>
-    <title>TikTok banned on Government Electronic Devices</title>
-    <link>http://localhost:1313/2023/tiktok-banned-on-government-electronic-devices/</link>
-    <pubDate>Mon, 20 Mar 2023 00:51:25 &#43;0100</pubDate>
-    <author>Author</author>
-    <guid>http://localhost:1313/2023/tiktok-banned-on-government-electronic-devices/</guid>
-    <description><![CDATA[<h1 id="on-16-march-2023-the-uk-cabinet-office-announced-that-the-social-media-app-tiktok-is-banned-on-government-electronic-deviceshttpswwwgovukgovernmentnewstiktok-banned-on-uk-government-devices-as-part-of-wider-app-review-the-reason"><a href="https://www.gov.uk/government/news/tiktok-banned-on-uk-government-devices-as-part-of-wider-app-review" target="_blank" rel="noopener noreffer ">On 16 March 2023, the U.K. Cabinet Office announced that the social media app TikTok is banned on government electronic devices</a>. The reason?</h1>
-<h3 id="a-security-review-ordered-by-the-cabinet-office-ministers-aimed-to-look-at-the-potential-vulnerability-of-government-data-from-social-media-apps-on-devices-and-risks-around-how-sensitive-information-could-be-accessed-and-used-by-some-platforms">A security review ordered by the Cabinet Office Ministers aimed to look “at the potential vulnerability of government data from social media apps on devices and risks around how sensitive information could be accessed and used by some platforms.”</h3>
-<p><a href="https://www.euronews.com/next/2023/03/17/which-countries-have-banned-tiktok-cybersecurity-data-privacy-espionage-fears" target="_blank" rel="noopener noreffer ">Euronews</a> reported on 17 March 2023 that in addition to the U.K., “New Zealand, The European Parliament, European Commission, and the E.U. Council,…, Belgium, Canada, Denmark, India, Taiwan, and the United States” have banned TikTok from government devices. Euronews reports that Afghanistan and Pakistan have also banned the app.</p>
-<p>Their concerns are warranted.</p>
-<p>On 4 July 2022, <a href="https://internet2-0.com/technical-analysis-of-tiktok-app/" target="_blank" rel="noopener noreffer ">internet2.0</a> presented the “Technical Analysis of TikTok App.” Their media release provided a link to <a href="https://penetrum.com/tiktok/Penetrum_TikTok_Security_Analysis_whitepaper.pdf" target="_blank" rel="noopener noreffer ">Penetrum</a>, who conducted a Security Analysis on TikTok. Security Analysis is a process of identifying vulnerabilities in software, how potential attackers can use those vulnerabilities to their advantage, and recommending security mitigating measures to mitigate those vulnerabilities.</p>
-<p>In their report, Penetrum found that “after extensive research, we have found that not only is TikTok a massive security flaw waiting to happen, but the ties that they have to Chinese parties and Chinese ISP’s make it a very vulnerable source of data.”</p>
-<p><a href="https://penetrum.com/tiktok/Penetrum_TikTok_Security_Analysis_whitepaper.pdf" target="_blank" rel="noopener noreffer ">According to the report</a>, TikTok collects the following user data:
-“</p>
-<ul>
-<li>IMEI number of a phone,</li>
-<li>Screen Resolution,</li>
-<li>SIM card provider</li>
-<li>Tracks the smartphone’s location</li>
-<li>Collects GPS coordinates</li>
-<li>Collects WiFi location and SSID-changes</li>
-<li>Collects Mobile Cell Data</li>
-<li>O.S. version</li>
-<li>Full lists of mobile contacts</li>
-<li>SMS logs</li>
-<li>IMSI numbers</li>
-<li>Smartphone model</li>
-<li>Smartphone version</li>
-<li>Stored app data from previous installations, and</li>
-<li>Memory data”</li>
-</ul>
-<p>According to the report, this amount of data “creates an extremely realistic and graphic fingerprint of your phone which can be used to determine everything you have installed.” Furthermore, “the IMSI which is used to follow users while getting a new phone, basically while transferring your SIM data to a new phone, the IMSI number stays with you.” This enables the application owner to “create a profile on you.” The report states that “TikTok does an excessive amount of tracking on it’s users, and that the data collected is partially if not fully stored on Chinese servers”</p>
-<p>In addition to the information collected by the application, the report presents several “Security Concerns of Downloading TikTok.” In more detail, the following:</p>
-<p>“</p>
-<ul>
-<li>Execution of O.S. commands</li>
-<li>Insecure cryptography usage</li>
-<li>Potential SQL injection code from user defined variables</li>
-<li>Storing of API tokens</li>
-<li>Webview enabled by default along with insecure webview enabled”</li>
-</ul>
-<h3 id="what-does-all-of-the-above-mean">What does all of the above mean?</h3>
-<p>It means that TikTok has vulnerabilities that, if known by someone “who figures out how to enable and leverage this capability of this app, can use it or execute man in the middle attacks.” Why? Because the vulnerabilities mentioned in the report can potentially load files on the smartphone, “which in theory can lead to malware being loaded from inside the application, chained with remote debugging to see what fails in your malware. It also allows a very big window for attackers to not only upload, but execute, and debug their malware as well(in almost real time).” To Penetrum “this seems like an extreme security risk that shouldn’t be taken lightly.”</p>
-<p>If the conclusions of the Security Analysis report are accurate, then the concerns that Governments have had about security risks to government information are warranted. However, if the findings are accurate, government staff are profiled and constantly tracked. This could mean a potential adversary could plan, prepare, and execute intelligence operations to recruit government staff as spies.</p>
-<p>Based on <a href="https://penetrum.com/tiktok/Penetrum_TikTok_Security_Analysis_whitepaper.pdf" target="_blank" rel="noopener noreffer ">Penetrum’s Security Analysis report</a>, if accurate, TikTok could be considered an intelligence collection tool to collect government information and profile, government staff. A threat actor could use this intelligence to always stay one step ahead of, for example, the U.K. government in political, military, economic, social, infrastructure, and information affairs. This could pose a national security risk.</p>
-<p>One case that reminds of this approach is what <a href="https://americanmilitarynews.com/2020/12/china-exposed-cia-operatives-in-africa-and-europe-with-hacked-us-data-report-says/" target="_blank" rel="noopener noreffer ">American Military News states</a>: “In 2012, China hacked a major U.S. Office of Personnel Management (OPM) database which allowed them to expose numerous CIA spies operating in Africa and Europe.</p>
-<p><a href="https://foreignpolicy.com/2020/12/21/china-stolen-us-data-exposed-cia-operatives-spy-networks/" target="_blank" rel="noopener noreffer ">Foreign Policy states</a>, “During the OPM breach, Chinese hackers stole detailed, often highly sensitive personnel data from 21.5 million current and former U.S. officials, their spouses, and job applicants, including health, residency, employment, fingerprint, and financial data.”</p>
-<p>The difference between the OPM hack and TikTok is that current and future government staff freely provide this kind of information, especially since TikTok collects all of the information, as noted above. At the same time, those aware of TikTok’s capabilities can conduct eavesdropping attacks and not need to “hack” into government databases (although if vulnerabilities exist, that is also likely to happen).</p>
-<p>Therefore, the U.K. Cabinet Office announcing a “<a href="https://www.gov.uk/government/news/tiktok-banned-on-uk-government-devices-as-part-of-wider-app-review" target="_blank" rel="noopener noreffer ">precautionary ban on TikTok on government</a>” electronic devices does not protect only sensitive information but also government staff: current and future.</p>
 ]]></description>
 </item>
 </channel>
