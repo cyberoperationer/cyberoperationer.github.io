@@ -153,3 +153,5 @@ Oversight must be managed through an interagency review process involving legal,
 ## 9. Conclusions
 
 Expanding national cyber capacity through a structured, legally grounded framework for private sector engagement offers a realistic way to address growing operational demands. Drawing on historical analogies and operational lessons, such as Operation Glowing Symphony, the proposal outlines how state-authorized private actions can be integrated into national strategy without undermining legal or strategic norms. By focusing on non-state threats and embedding oversight into every stage, this approach enables measured use of existing expertise while maintaining public accountability. It may represent a step toward more adaptive and coordinated responses to emerging threats in cyberspace.
+
+**Disclaimer**: The views expressed in this policy brief are solely those of the author and do not reflect the official positions of any current or past affiliated organizations. All references and case examples are used for illustrative and analytical purposes only.
