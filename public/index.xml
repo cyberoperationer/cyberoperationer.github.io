@@ -3,9 +3,205 @@
         <title>Cyberspace Operations</title>
         <link>http://localhost:1313/</link>
         <description>Cyberspace Operations</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 08:05:18 &#43;0200</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 21:08:05 &#43;0200</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Revisiting the Letter of Marque</title>
+    <link>http://localhost:1313/2025/revisiting-the-letter-of-marque/</link>
+    <pubDate>Sun, 25 May 2025 21:08:05 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/2025/revisiting-the-letter-of-marque/</guid>
+    <description><![CDATA[<h1 id="revisiting-the-letter-of-marque-leveraging-the-private-sector-in-offensive-cyberspace-operations---an-analytical-reflection-on-historical-analogies-and-contemporary-policy-debates">Revisiting the Letter of Marque: Leveraging the Private Sector in Offensive Cyberspace Operations - <em>An Analytical Reflection on Historical Analogies and Contemporary Policy Debates</em></h1>
+<hr>
+<h2 id="1-executive-summary">1. Executive Summary</h2>
+<p>This policy brief explores a structured model for state-authorized private sector engagement in offensive cyberspace operations. The idea draws inspiration from the historical concept of the letter of marque, which allowed states to authorize private actors to disrupt enemy assets under legal protection. While the 18th-century practice is not directly applicable today, it offers a useful model for assigning limited, accountable roles to private cybersecurity firms in support of national objectives. The brief uses <a href="https://darknetdiaries.com/episode/50/" target="_blank" rel="noopener noreffer ">Operation Glowing Symphony</a>—a coordinated U.S. Cyber Command operation targeting ISIS media infrastructure—as a case study. It demonstrates how state-led offensive operations can be developed, rehearsed, and executed in a way that maintains legal oversight and operational discipline. Rather than opening the domain to unregulated hacking, the exploration focuses on enabling authorized and bounded actions against specific non-state threat actors operating below the threshold of armed conflict.</p>
+<p>The model includes time-bound mandates, legal immunity under strict conditions, and mandatory coordination with national agencies. This approach can enhance national resilience and deterrence capacity without expanding permanent state structures. It also offers a practical response to concerns over asymmetric threats from actors with greater scale and coordination than many states can counter alone.</p>
+<hr>
+<h2 id="2-problem-statement">2. Problem Statement</h2>
+<p>States face growing pressure to respond to persistent cyberspace operations conducted by both state and non-state actors. These operations often target critical infrastructure, financial networks, and information systems. Traditional defensive measures, while necessary, have not been sufficient to reduce the frequency or severity of such threats. At the same time, there is a significant gap between national cyber capacity and the capabilities of adversaries. For example, <a href="https://www.nextgov.com/cybersecurity/2025/05/18th-century-war-power-resurfaces-cyber-policy-talks/405526/" target="_blank" rel="noopener noreffer ">according to Nextgov</a>, the U.S. has acknowledged being outnumbered in cybersecurity personnel compared to China by a factor of 50 to 1. In this environment, private sector expertise is both more advanced and more scalable than what is currently available within government structures.</p>
+<p>However, no formal framework exists to allow private firms to contribute to offensive operations in a legally sanctioned and coordinated manner. Without such a framework, ad hoc actions risk undermining ongoing intelligence work, triggering diplomatic tensions, or creating legal uncertainties. The absence of an accountable model for private sector participation in offensive cyberspace responses may limit the state&rsquo;s ability to act in grey-zone competition or conflict. A structured, state-authorized mechanism may offer a way to bridge this gap and to guide private action under law, oversight, and clear operational limits.</p>
+<hr>
+<h2 id="3-background--analogy">3. Background &amp; Analogy</h2>
+<p>The concept of a letter of marque originates from maritime law. It was used by states to authorize private vessels to attack and seize enemy ships during wartime. These letters allowed governments to expand their reach without deploying additional naval forces, while also maintaining legal oversight and accountability through courts of admiralty. While this historical mechanism is no longer in use, it offers a useful analogy for structured private participation in offensive cyberspace operations. In both contexts, the state faces a resource gap and must find ways to extend its reach through regulated non-state actors.</p>
+<p>In cyber policy discussions, the idea has resurfaced as a metaphor for how private firms might be legally authorized to act against threats such as ransomware groups or transnational cybercriminals. The goal is not to replicate 18th-century practices but to draw lessons about how states can responsibly delegate certain functions under clear legal and operational frameworks. A modern precedent exists in Operation Glowing Symphony (OGS)—a U.S. Cyber Command-led mission to disrupt ISIS’s media operations. OGS was structured, rehearsed, and legally authorized. It demonstrates how a state can conduct offensive cyberspace operations without relying solely on kinetic force or open warfare.</p>
+<p>Table 1 illustrates the conceptual similarities between historical maritime practice and this modern cyber operation.</p>
+<p><strong>Table 1: Comparison of historical and contemporary State-authorized disruption models</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Letter of Marque (Historical)</th>
+          <th>Operation Glowing Symphony (Modern)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Authorized attacks on enemy ships</td>
+          <td>Authorized attacks on enemy digital systems</td>
+      </tr>
+      <tr>
+          <td>Private actors under state license</td>
+          <td>Military cyber teams under joint command</td>
+      </tr>
+      <tr>
+          <td>Time- and target-specific</td>
+          <td>Scripted, time-bound, legally approved</td>
+      </tr>
+  </tbody>
+</table>
+<p>This table supports the brief’s central analogy and highlights the relevance of structured state delegation in contemporary cyber strategy.</p>
+<hr>
+<h2 id="4-policy-proposal">4. Policy Proposal</h2>
+<p>This brief outlines a potential framework that allows vetted private sector actors to carry out time-limited, targeted offensive cyberspace operations under legal oversight. The framework is inspired by historical state practices (letters of marque) and informed by the operational experience of Operation Glowing Symphony.</p>
+<p>The model includes the following components:</p>
+<p><strong>A. Legal Authorization</strong><br>
+Private actors would operate under a formal legal instrument—such as an executive order, legislative provision, or defense authorization. The authorization would define the operation’s scope, time frame, geographic focus, and targets (e.g., non-state threat actors).</p>
+<p><strong>B. Eligibility and Oversight</strong><br>
+Only pre-vetted private entities—with existing clearances, contractual ties to government, and operational maturity—would qualify. All operations must be pre-approved, monitored, and deconflicted with agencies such as USCYBERCOM, NSA, DHS, or DOJ. Operators must follow rules-of-engagement approved by legal and technical authorities.</p>
+<p><strong>C. Operational Limits</strong><br>
+All actions must be non-kinetic, focused on disruption or degradation of non-state threat actors&rsquo; digital capabilities. Operations must avoid causing direct, disproportionate, or sustained disruption to civilian services or critical infrastructure not being used for hostile purposes.</p>
+<p><strong>D. Legal Protections</strong><br>
+Participating firms could receive limited liability protections, akin to those provided under the <a href="https://www.cisa.gov/sites/default/files/publications/Cybersecurity%2520Information%2520Sharing%2520Act%2520of%25202015.pdf" target="_blank" rel="noopener noreffer ">2015 Cybersecurity Information Sharing Act (CISA)</a>, provided their actions comply with formal authorization and oversight requirements. A transparency and review mechanism should be established to monitor outcomes and ensure lawful execution.</p>
+<p>Table 2 compares the key attributes of Operation Glowing Symphony with the proposed framework, highlighting how similar principles of authorization, coordination, and legal constraint can be applied to qualified private sector actors in future operations.</p>
+<p><strong>Table 2: Comparison between Operation Glowing Symphony and the proposed private-sector offensive cyber framework</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Feature</th>
+          <th>Operation Glowing Symphony</th>
+          <th>Proposed Private-Sector Framework</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Actor Type</td>
+          <td>Government cyber teams</td>
+          <td>Vetted private contractors</td>
+      </tr>
+      <tr>
+          <td>Legal Authority</td>
+          <td>Presidential tasking (Task Order 16-0063)</td>
+          <td>National statute or executive authorization</td>
+      </tr>
+      <tr>
+          <td>Oversight</td>
+          <td>Chain of command (JTF-ARES)</td>
+          <td>Interagency approval and legal review</td>
+      </tr>
+      <tr>
+          <td>Target Focus</td>
+          <td>Terrorist media infrastructure</td>
+          <td>Non-state threat actors</td>
+      </tr>
+      <tr>
+          <td>Coordination</td>
+          <td>Full deconfliction across agencies</td>
+          <td>Mandatory deconfliction</td>
+      </tr>
+  </tbody>
+</table>
+<p>Such a model could help expand national capacity while maintaining legal control and operational discipline.</p>
+<hr>
+<h2 id="5-addressing-key-concerns">5. Addressing Key Concerns</h2>
+<p>The idea of authorizing private actors to conduct offensive cyberspace operations raises valid concerns. These concerns must be addressed through clear legal mandates, operational oversight, and built-in limitations. One concern is that such actions could be misused or lead to escalation. To avoid this, the proposed framework limits operations to non-state targets and requires pre-authorization, coordination, and oversight by national authorities. Actions must also follow strict rules of engagement and remain within legally defined boundaries.</p>
+<p>Another concern is the disruption of intelligence collection or interference with military operations. This is addressed through mandatory deconfliction, as demonstrated in Operation Glowing Symphony, where Cyber Command coordinated actions across agencies to avoid operational overlap.</p>
+<p>Legal ambiguity is also a common issue. By integrating liability protections and authorization mechanisms similar to existing frameworks (e.g., CISA), this proposal provides a structured legal environment that distinguishes it from unsanctioned so-called &ldquo;hack-back activity.&rdquo;</p>
+<p>Finally, the concern that civilian infrastructure could be unintentionally affected is mitigated through the requirement to avoid direct, disproportionate, or sustained disruption to systems not used for hostile purposes.</p>
+<p>Table 3 summarizes these concerns alongside the proposed mitigation mechanisms, showing how the framework maintains legal clarity and operational restraint.</p>
+<p><strong>Table 3: Key policy concerns and corresponding mitigation measures</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Concern</th>
+          <th>Mitigation Mechanism</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Escalation or misuse</td>
+          <td>Time-limited mandates, strict oversight, non-state targets only</td>
+      </tr>
+      <tr>
+          <td>Operational interference</td>
+          <td>Interagency deconfliction and legal coordination</td>
+      </tr>
+      <tr>
+          <td>Legal uncertainty</td>
+          <td>Authorization instruments and liability protections</td>
+      </tr>
+      <tr>
+          <td>Civilian infrastructure impact</td>
+          <td>Rules of engagement prohibiting disproportionate disruption</td>
+      </tr>
+  </tbody>
+</table>
+<p>These measures are designed to help reduce the risk that the framework undermines legal norms or operational stability while supporting state objectives.</p>
+<hr>
+<h2 id="6-use-case-prioritization">6. Use Case Prioritization</h2>
+<p>This framework is not envisioned for use in inter-state armed conflict or against state-controlled military systems. It applies to non-state threat actors operating below the threshold of war, including in active conflict zones, where operations support counterterrorism, counter-crime, or digital stabilization objectives.</p>
+<p>Priority targets may include non-state threat actors engaged in disruptive or harmful activities, illicit online platforms, terrorist media outlets disseminating propaganda, and botnet operators undermining essential services. Operations under such a framework could aim to disrupt functionality, seize data, or temporarily deny access to digital infrastructure, while avoiding broader or sustained collateral effects. Table 4 provides examples of eligible and excluded targets, offering a structured approach to prioritization that reflects both legal boundaries and operational discretion. Operations could focus on disruption, data seizure, or temporary denial of digital capabilities, with minimal collateral effects.</p>
+<p><strong>Table 4: Target selection parameters for private-sector offensive cyberspace operations</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Eligible Targets</th>
+          <th>Excluded Targets</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Non-state threat actors engaged in disruptive or harmful activities</td>
+          <td>Foreign state-controlled military infrastructure</td>
+      </tr>
+      <tr>
+          <td>Terrorist propaganda infrastructure (e.g., ISIS)</td>
+          <td>Civilian services not used for hostile purposes</td>
+      </tr>
+      <tr>
+          <td>Illicit online platforms</td>
+          <td>Platforms in neutral jurisdictions</td>
+      </tr>
+  </tbody>
+</table>
+<p>This prioritization supports strategic coherence, aligns with legal boundaries, and maintains operational restraint.</p>
+<hr>
+<h2 id="7-strategic-benefits">7. Strategic Benefits</h2>
+<p>This framework could offer a way to increase national cyber capacity without expanding permanent government structures. By enabling temporary, state-authorized private sector operations, the state can respond more flexibly to time-sensitive threats.</p>
+<p>It also supports targeted disruption of adversary networks, which raises operational costs for threat actors and can reduce the frequency or persistence of hostile activity. Importantly, it provides a legal and coordinated alternative to unsanctioned hack-back practices, which risk undermining intelligence efforts and international norms. Table 5 summarizes how the proposed model addresses current limitations in national cyber response capacity, offering structured and lawful enhancements without compromising oversight or strategy.</p>
+<p><strong>Table 5: Addressing limitations in current cyber response models</strong></p>
+<table>
+  <thead>
+      <tr>
+          <th>Current Limitation</th>
+          <th>Benefit of Proposed Framework</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Limited public capacity to meet emerging threats</td>
+          <td>Temporary expansion using vetted private actors</td>
+      </tr>
+      <tr>
+          <td>Fragmented or uncoordinated private responses</td>
+          <td>Centralized authorization and legal oversight</td>
+      </tr>
+      <tr>
+          <td>Inability to impose costs on non-state actors</td>
+          <td>Enables proportionate, state-sanctioned disruption</td>
+      </tr>
+  </tbody>
+</table>
+<p>The approach supports resilience, burden-sharing, and a more proactive cybersecurity posture.</p>
+<hr>
+<h2 id="8-recommendations">8. Recommendations</h2>
+<p>To explore the viability of this approach, a pilot could be tested through a limited pilot program administered by, for example, either the Department of Defense or the Department of Homeland Security. This pilot could focus on non-state threat actors engaged in disruptive or harmful activities or counter-terrorism operations targeting non-state actors, allowing for the evaluation of legal, technical, and operational procedures in practice.</p>
+<p>To support such a pilot, the government could issue a formal legal instrument—either an executive order or a legislative provision—that authorizes time-bound, state-sanctioned offensive cyber activities by designated private entities. Participation could be limited to firms with prior security clearances, demonstrated technical capability, and a history of regulatory compliance.</p>
+<p>Oversight must be managed through an interagency review process involving legal, operational, and diplomatic input. This process could be designed to ensure that all activities remain aligned with national law, avoid strategic miscalculation, and support broader policy objectives. These steps can enable a controlled and accountable expansion of national cyber capabilities.</p>
+<hr>
+<h2 id="9-conclusions">9. Conclusions</h2>
+<p>Expanding national cyber capacity through a structured, legally grounded framework for private sector engagement offers a realistic way to address growing operational demands. Drawing on historical analogies and operational lessons, such as Operation Glowing Symphony, the proposal outlines how state-authorized private actions can be integrated into national strategy without undermining legal or strategic norms. By focusing on non-state threats and embedding oversight into every stage, this approach enables measured use of existing expertise while maintaining public accountability. It may represent a step toward more adaptive and coordinated responses to emerging threats in cyberspace.</p>
+]]></description>
+</item>
+<item>
     <title>Safeguarding Innovation</title>
     <link>http://localhost:1313/2025/safeguarding-innovation/</link>
     <pubDate>Thu, 15 May 2025 08:05:18 &#43;0200</pubDate>
@@ -250,45 +446,6 @@ Thank you.</p>
 <h3 id="conclusions">Conclusions</h3>
 <p>Technological advancements are occurring at exponential rates, so we cannot overstate the importance of cyber security and the role of dedicated &ldquo;pracademic&rdquo; (= professional and academic) supervision. Through guidance, mentorship and active engagement, we can identify and support the next generation of cyber security policy experts that ensure the safety and security of cyberspace. It has been an honour to guide these two future leaders in cyber security policy.
 I look forward to their contributions to their organisations and countries for national and international security.</p>
-]]></description>
-</item>
-<item>
-    <title>Digital Authoritarianism: A Summary</title>
-    <link>http://localhost:1313/2023/digital-authoritarianism-a-summary/</link>
-    <pubDate>Tue, 25 Apr 2023 21:12:28 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>http://localhost:1313/2023/digital-authoritarianism-a-summary/</guid>
-    <description><![CDATA[<p></p>
-<h3 id="on-24-april-2023-the-us-director-of-national-intelligence-dni-dr-avril-haines-was-invited-to-a-public-conversation-with-carnegies-dan-baer-on-combatting-digital-authoritarianism-this-is-a-summary-of-her-presentation-the-entire-presentation-including-the-qa-session-is-on-carnegie-endowments-youtube-pagehttpswwwyoutubecomwatchvmd64c-dunyo">On 24 April 2023, The US Director of National Intelligence (DNI) Dr. Avril Haines was invited to a public conversation with Carnegie’s Dan Baer on combatting digital authoritarianism. This is a summary of her presentation. The entire presentation including the Q&amp;A session is on <a href="https://www.youtube.com/watch?v=mD64C-DUNYo" target="_blank" rel="noopener noreffer ">Carnegie Endowment&rsquo;s YouTube-page</a>.</h3>
-<p>Today, democracy is increasingly challenged by autocratic leaders that contest over information, defined as “the increasing use of digital technology to promote authoritarianism.” The DNI highlighted the importance of intellectual exchange between the intelligence community and think tanks like Carnegie Endowment to “challenge our thinking and work to ensure that we are focused on what matters, and not missing the broader strategic pictures.” This collaboration is especially fruitful in understanding the landscape, addressing the problem, and focus in one aspect of a problem.</p>
-<p>The aspect the DNI was commenting was “the degree to which new technologies, institutional, legal, and organisational approaches to digital repression being deployed by authoritarian governments and exported to other countries are advancing authoritarianism and undermining democratic governance globally.”</p>
-<p>The DNI covered seven themes in her presentation. First, the distinction between an intelligence service in a democracy versus an authoritarian state. Second, why digital repression is a critical threat to national security. Third, how foreign governments are “increasingly using digital information and communication technologies to monitor and suppress political debate domestically as well as in their expat and diaspora communities abroad.” Fourth, describing the Russian, Chinese and Iranian models and methods “that are being exported.” Fifth, how governments are increasingly using spyware to “target political opponents and critics.” Sixth, how governments are using technologies to limit user access to information. Finally, the DNI describes how the intelligence community “alongside the private sector and research institutions can help to create greater awareness regarding the types of technologies as well as the institutional legal and organisational approaches being used to engage in digital repression.”</p>
-<h3 id="intelligence-services-in-democracies-vs-an-authoritarian-state">Intelligence services in democracies vs. an authoritarian State</h3>
-<p>According to the DNI, Intelligence services in democracies:
-“are subject to democratically passed laws, have internal and external safeguards in place and ultimately are held accountable to oversight mechanisms that work to ensure we remain legal, ethical, and focused on providing the best intelligence to help decision makers in our government make better national security and foreign policy decisions while being protective of people&rsquo;s civil liberties and privacy.”</p>
-<p>In authoritarian countries, intelligence services are “often used as tools of the state to enhance digital repression under the direction of their rulers.”</p>
-<p>Why is Digital Repression a Critical Threat to National Security?
-Authoritarian States are increasingly using digital technology to promote authoritarianism. Free flows of information pose a threat and authoritarian countries were early concerned with the Internet and the implications of free flows of information. The Arab Spring uprising “served as a turning point when authoritarian governments came to recognise that their public’s digital connectivity posed an existential threat to their grip on power.” Therefore, using digital technologies to control the flows of information, eliminate dissent, remould society, conduct mass surveillance, spread disinformation, misinformation, and propaganda, and use spyware to suppress voices and debate, authoritarian States are exporting authoritarianism which is a risk to the integrity of democracy and democratic societies.</p>
-<h3 id="china">China</h3>
-<p>The People&rsquo;s Republic of China (PRC) is a “global leader in digital repression”, topping Freedom House&rsquo;s list of countries with the least internet freedom for eight consecutive years. China excels at censoring digital information and surveilling its population due to early prioritization of digital controls. The PRC uses digital repression to prevent challenges to its rule, eliminate dissent, and reshape society for national rejuvenation.</p>
-<p>China presents its use of digital repression tools as features, controlling information flow and limiting citizen access to information that may undermine the government&rsquo;s legitimacy. The country exports its technology and know-how, enabling transnational repression and assisting other governments in digital repression within their borders.</p>
-<p>Chinese smart cities integrate surveillance technology with public goods provision, such as traffic safety, to exert authoritarian control. The PRC is also the leading perpetrator of transnational repression, often through digital means, with its Operation Fox Hunt initiative. Recently, the EU&rsquo;s Department of Justice charged PRC police officers for using fake social media accounts to spread propaganda and harass dissidents in the United States.</p>
-<h3 id="russia">Russia</h3>
-<p>Russia is also a leading perpetrator of digital repression, taking a different approach from China by relying on complex legal and institutional structures to control information. It has been particularly active in spreading disinformation since the start of Putin&rsquo;s illegal invasion of Ukraine. Internet freedom in Russia is the 6th least free globally and reached an all-time low last year.</p>
-<p>The Kremlin has blocked social media sites and thousands of websites and introduced harsh penalties for spreading “false” information about the Russia-Ukraine conflict. Moscow has pressured foreign IT giants to abide by its content moderation requirements, resulting in increased self-censorship and withdrawal from the Russian media space. The expansion of Kremlin-aligned media corporations, such as VKontakte&rsquo;s acquisition of Yandex, has given the government greater control over online content.</p>
-<p>In 2022, Moscow required foreign IT and media companies with significant Russian user bases to maintain local offices and comply with Russian laws. The government has encouraged the development of indigenous platforms to replace foreign social media companies, allowing for increased content control. Russia has also undermined internet freedom in Ukraine through internet shutdowns, cyberattacks, targeted airstrikes, and dismantling of telecommunications infrastructure.</p>
-<p>A Russia-based influence operation in Ukraine was discovered last September, involving over 60 websites impersonating news organizations and accounts on major U.S. social media platforms.</p>
-<h3 id="iran">Iran</h3>
-<p>Iran imposes Internet shutdowns to stop protests, such as during the protests after the death of 22-year-old Mahsa Amini in police custody. During the protests, Iran conducted 18 Internet shutdowns. Furthermore, Iran has presented its intent and capability to use proxies such as an Eastern European criminal organisation to suppress dissidents by murdering them: a human rights activist was murdered after criticizing Iran’s treatment of women.</p>
-<h3 id="other-tactics-techniques-and-procedures-ttps">Other Tactics Techniques and Procedures (TTPs)</h3>
-<p>Other countries are adopting the approaches mentioned for digital repression. Additional tactics include the tactic of internet shutdowns, blocking websites, using commercial spyware, to provide only access “to an online space that mirrors the views of their government and its interests”, limiting “users access to information sources located outside of their borders”, monitoring populations and “potentially manipulate control and exploit information based on the insights gained from the” vast amounts of data created by billions and trillions of internet of things-devices connected to smart city initiatives, and exploiting facial recognition AI to quell political unrest.</p>
-<h3 id="the-response-to-digital-repression">The Response to Digital Repression</h3>
-<p>Collaboration between the intelligence community, private sector, and research institutions is crucial. Raising awareness about technologies and approaches used for digital repression, we can help develop normative frameworks that preserve the positive potential for these technologies while guarding against their repressive uses. This should include promoting technical standards and design approaches that support cybersecurity, democratic governance, freedom of expression, and political discourse, while acknowledging the risks associated with vast data collection. In addition, modern laws and organizational structures are needed to make digital repression more difficult. As certain governments become more adept at using repressive technologies, urgent action is required to address the growing sophistication of automated surveillance and identity resolution techniques.</p>
-<p>Digital repression and foreign malign influence are whole-of-society challenges that require a unified response to protect the integrity of democratic societies worldwide.</p>
-<h3 id="a-detailed-model-of-digital-repression">A Detailed Model of Digital Repression</h3>
-<p>This section presents a detailed model of digital repression based on the presentation.
-</p>
-<p>Due to China being an earlier adopter of Digital Controls, it is more mature in controlling information flows. Russia, on the other hand, is working to get there. Finally, Iran will likely need a higher level of maturity in digital controls and therefore currently relies on simply shutting down their portion of the internet combined with deterrence by punishment and fear manifesting in for example, <a href="https://www.theguardian.com/world/ng-interactive/2022/oct/31/mapping-irans-unrest-how-mahsa-aminis-death-led-to-nationwide-protests" target="_blank" rel="noopener noreffer ">crackdowns</a>.</p>
 ]]></description>
 </item>
 </channel>
