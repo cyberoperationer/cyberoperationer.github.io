@@ -1,7 +1,7 @@
 ---
 title: "Revisiting the Letter of Marque"
 date: 2025-05-25T21:08:05+02:00
-draft: true
+draft: false
 ---
 
 # Revisiting the Letter of Marque: Leveraging the Private Sector in Offensive Cyberspace Operations - *An Analytical Reflection on Historical Analogies and Contemporary Policy Debates*
