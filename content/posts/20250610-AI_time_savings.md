@@ -6,9 +6,7 @@ draft: false
 
 A recent [UK Government AI experiment](https://www.gov.uk/government/news/landmark-government-trial-shows-ai-could-save-civil-servants-nearly-2-weeks-a-year) revealed that certain tasks can be fully automated, saving up to **13 working days per person annually**.
 
-The results are documented in two reports:  
-- [*Mapping the Potential*](https://www.turing.ac.uk/news/publications/mapping-potential-generative-ai-and-public-sector-work-using-time-use-data) by the Alan Turing Institute  
-- The [Government Digital Service’s](https://www.gov.uk/government/publications/microsoft-365-copilot-experiment-cross-government-findings-report) cross-government experiment of **Microsoft 365 Copilot**  
+The results are documented in two reports: [*Mapping the Potential*](https://www.turing.ac.uk/news/publications/mapping-potential-generative-ai-and-public-sector-work-using-time-use-data) by the Alan Turing Institute, and The [Government Digital Service’s](https://www.gov.uk/government/publications/microsoft-365-copilot-experiment-cross-government-findings-report) cross-government experiment of **Microsoft 365 Copilot**  
 
 Between September and December 2024, **20,000 UK civil servants** participated in the trial. The findings identified **four fully automatable activities**:
 
@@ -23,7 +21,7 @@ Between September and December 2024, **20,000 UK civil servants** participated i
 - **Time savings** were highest in:
   - Document drafting: *up to 24 minutes/day*
   - Presentation preparation: *19 minutes/day*  
-- On average, **13 working days** were saved per person annually—equivalent to **1,000 working years** saved across all participants.
+- On average, **13 working days** were saved per person annually—equivalent to **1,000 working years** saved across all participants (assuming a 260-day working year).
 
 # Economic Implications
 
