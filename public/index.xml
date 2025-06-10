@@ -3,9 +3,58 @@
         <title>Cyberspace Operations</title>
         <link>http://localhost:1313/</link>
         <description>Cyberspace Operations</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 21:08:05 &#43;0200</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 Jun 2025 07:27:09 &#43;0200</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>How AI Automation Saved 13 Days per UK Civil Servant in 2024</title>
+    <link>http://localhost:1313/2025/how-ai-automation-saved-13-days-per-uk-civil-servant-in-2024/</link>
+    <pubDate>Tue, 10 Jun 2025 07:27:09 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/2025/how-ai-automation-saved-13-days-per-uk-civil-servant-in-2024/</guid>
+    <description><![CDATA[<p>A recent <a href="https://www.gov.uk/government/news/landmark-government-trial-shows-ai-could-save-civil-servants-nearly-2-weeks-a-year" target="_blank" rel="noopener noreffer ">UK Government AI experiment</a> revealed that certain tasks can be fully automated, saving up to <strong>13 working days per person annually</strong>.</p>
+<p>The results are documented in two reports:</p>
+<ul>
+<li><a href="https://www.turing.ac.uk/news/publications/mapping-potential-generative-ai-and-public-sector-work-using-time-use-data" target="_blank" rel="noopener noreffer "><em>Mapping the Potential</em></a> by the Alan Turing Institute</li>
+<li>The <a href="https://www.gov.uk/government/publications/microsoft-365-copilot-experiment-cross-government-findings-report" target="_blank" rel="noopener noreffer ">Government Digital Service’s</a> cross-government experiment of <strong>Microsoft 365 Copilot</strong></li>
+</ul>
+<p>Between September and December 2024, <strong>20,000 UK civil servants</strong> participated in the trial. The findings identified <strong>four fully automatable activities</strong>:</p>
+<ul>
+<li>Organising meetings and meeting administration</li>
+<li>Creating or updating appointments or bookings</li>
+<li>Completing or processing forms</li>
+<li>Creating or updating records, databases, or case files</li>
+</ul>
+<h1 id="key-insights-from-the-experiment">Key Insights from the Experiment</h1>
+<ul>
+<li><strong>82%</strong> of users expressed a preference not to return to pre-AI workflows.</li>
+<li><strong>Time savings</strong> were highest in:
+<ul>
+<li>Document drafting: <em>up to 24 minutes/day</em></li>
+<li>Presentation preparation: <em>19 minutes/day</em></li>
+</ul>
+</li>
+<li>On average, <strong>13 working days</strong> were saved per person annually—equivalent to <strong>1,000 working years</strong> saved across all participants.</li>
+</ul>
+<h1 id="economic-implications">Economic Implications</h1>
+<p><a href="https://www.gov.uk/government/statistics/civil-service-statistics-2024/statistical-bulletin-civil-service-statistics-2024#:~:text=The%20median%20salary%20in%20the,of%20%c2%a32%2C060%20%286.5%25%29." target="_blank" rel="noopener noreffer ">The 2024 median annual salary for a UK civil servant was <strong>£33,980</strong>.</a> For 20,000 staff, the <strong>total annual payroll</strong> equates to:
+20,000 × £33,980 = £679,600,000</p>
+<p>Assuming a 260-day working year, the <strong>daily cost per civil servant</strong> is:
+£33,980 ÷ 260 ≈ £130.69</p>
+<p>A 13-day annual saving per person translates to:
+13 × £130.69 ≈ £1,699 per person/year</p>
+<p>For 20,000 civil servants, the total annual saving is:
+20,000 × £1,699 ≈ £33,980,000</p>
+<h1 id="some-policy-implications">Some Policy Implications</h1>
+<ul>
+<li><strong>Reallocation</strong> of budgetary resources to other priority areas</li>
+<li><strong>Reskilling</strong> staff for roles where AI still requires a human-in-the-loop</li>
+<li><strong>Faster public service delivery</strong>, enabled by freeing up 13 working days per employee</li>
+</ul>
+<hr>
+<p>This AI experiment demonstrates tangible productivity gains but also invites deeper reflection on how public-sector roles might evolve in the years to come.</p>
+]]></description>
+</item>
+<item>
     <title>Revisiting the Letter of Marque</title>
     <link>http://localhost:1313/2025/revisiting-the-letter-of-marque/</link>
     <pubDate>Sun, 25 May 2025 21:08:05 &#43;0200</pubDate>
@@ -199,6 +248,7 @@ Participating firms could receive limited liability protections, akin to those p
 <hr>
 <h2 id="9-conclusions">9. Conclusions</h2>
 <p>Expanding national cyber capacity through a structured, legally grounded framework for private sector engagement offers a realistic way to address growing operational demands. Drawing on historical analogies and operational lessons, such as Operation Glowing Symphony, the proposal outlines how state-authorized private actions can be integrated into national strategy without undermining legal or strategic norms. By focusing on non-state threats and embedding oversight into every stage, this approach enables measured use of existing expertise while maintaining public accountability. It may represent a step toward more adaptive and coordinated responses to emerging threats in cyberspace.</p>
+<p><strong>Disclaimer</strong>: The views expressed in this policy brief are solely those of the author and do not reflect the official positions of any current or past affiliated organizations. All references and case examples are used for illustrative and analytical purposes only.</p>
 ]]></description>
 </item>
 <item>
@@ -425,27 +475,6 @@ One policy response has been the notion of cyber deterrence and persistent engag
 <p>Thank you again to the Global CyberPeace Summit and Dialogues for organising and hosting this important event. I wish you fruitful dialogue and discussions on these very important topics.</p>
 <p> <br>
 Thank you.</p>
-]]></description>
-</item>
-<item>
-    <title>Guiding the Future of Cyber Security Policy: The Importance of Supervision</title>
-    <link>http://localhost:1313/2023/guiding-the-future-of-cyber-security-policy-the-importance-of-supervision/</link>
-    <pubDate>Fri, 23 Jun 2023 11:43:48 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>http://localhost:1313/2023/guiding-the-future-of-cyber-security-policy-the-importance-of-supervision/</guid>
-    <description><![CDATA[<p></p>
-<h3 id="cyber-security-definitions-and-agencies">Cyber Security, Definitions and Agencies</h3>
-<p>Cyber Security is a fundamental pillar and of utmost importance to secure our reliance on interconnected information systems in networks of networks facilitated by information and telecommunication technologies. Supervising two extraordinary individuals participating in the <a href="https://www.gcsp.ch/courses/leadership-international-security-course-lisc-2023-2024" target="_blank" rel="noopener noreffer ">Leadership in International Security Course (LISC)</a>, a highly competitive eight-month course in international security designed for high-performing professionals seeking to enhance their careers and effectively respond to the world&rsquo;s most pressing security challenges, has been a transformative journey: a journey where it not only underlines the importance of not only cyber security but also the invaluable role of guidance and supervision in updating and deepening the knowledge of the participants in the cyber security policy field.</p>
-<p>Cyber Security has many definitions; some include process, people and technology, others focus on the technology level, such as protecting computers, electronic communication systems, services etc., and others focus on the policy level. Regardless of level, organisations must ensure their systems are cyber secure against cyber threat actors and related attacks. Organisations with insecure systems risk, for example, ransomware attacks. The implications can be devastating, from losing trust, their brand taking damage, or even threatening national security.</p>
-<p>Intelligence communities, agencies responsible for cyber security, and private sector companies in the cyber security industry constantly present reports on the threat landscape. Firstly, the threat level is high in cyberspace because connected assets are always online and accessible, which means attackers can always target them. Second, threat actors, especially those in the Ransomeware-as-a-Service (RaaS)-sector, constantly seek ways to penetrate systems. Therefore, cyber security is a continuously shifting field requiring a highly skilled workforce. Therefore, cyber security is a continually shifting field requiring a highly skilled workforce. The importance of supervision becomes evident in this context.</p>
-<h3 id="the-role-of-supervision">The Role of Supervision</h3>
-<p>Over the eight-month LISC course, two brilliant LISC participants chose their respective cybersecurity-related topics, and I had the privilege of supervising them. The role of supervision is not only to impart knowledge; it is also about acting as a guide and mentor, and <a href="https://www.ucl.ac.uk/teaching-learning/publications/2019/aug/research-and-project-supervision-all-levels-introduction" target="_blank" rel="noopener noreffer ">source of information</a></p>
-<h3 id="the-importance-of-individual-cyber-security-policy-research">The Importance of Individual Cyber Security Policy Research</h3>
-<p>Under my supervision, the two LISC participants began their individual journeys. The first focused on &ldquo;Digital and Technological Sovereignty of the European Union&rdquo;, with a background on how technology and related components increasingly impact national security, providing challenges and opportunities for the EU and policy recommendations. The second focused on &ldquo;Public-Private Partnerships in Cybersecurity&rdquo; for successful collective cybersecurity by applying complexity theory in public-private partnerships and interviewing key stakeholders to present relevant policy recommendations.</p>
-<p>Their research underscores the many facets and perspectives in cyber security. Each challenge requires unique approaches, and each participant&rsquo;s existing training, education, and expertise, augmented by the LISC program, can provide novel and relevant policy recommendations. The beauty of supervision lies in its ability to allow me to guide and support LISC participants as they delve into their unique paths, providing a significant, original contribution to cyber security policy knowledge.</p>
-<h3 id="conclusions">Conclusions</h3>
-<p>Technological advancements are occurring at exponential rates, so we cannot overstate the importance of cyber security and the role of dedicated &ldquo;pracademic&rdquo; (= professional and academic) supervision. Through guidance, mentorship and active engagement, we can identify and support the next generation of cyber security policy experts that ensure the safety and security of cyberspace. It has been an honour to guide these two future leaders in cyber security policy.
-I look forward to their contributions to their organisations and countries for national and international security.</p>
 ]]></description>
 </item>
 </channel>
