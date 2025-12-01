@@ -3,66 +3,106 @@
         <title>All Posts - Cyberspace Operations</title>
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Cyberspace Operations</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 Jun 2025 07:27:09 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>AI_time_savings</title>
-    <link>http://localhost:1313/2025/ai_time_savings/</link>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 08:54:12 &#43;0100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Executive Cyber Briefing – Last Week’s Risks in Context</title>
+    <link>http://localhost:1313/2025/executive-cyber-briefing-last-weeks-risks-in-context/</link>
+    <pubDate>Mon, 01 Dec 2025 08:54:12 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/2025/executive-cyber-briefing-last-weeks-risks-in-context/</guid>
+    <description><![CDATA[<p></p>
+<p>Last week’s developments cluster around <strong>three themes</strong>:<br>
+<strong>industrialised social-engineering pipelines</strong>, <strong>the uneven impact of AI-enabled tools on cybercrime</strong>, and <strong>the deepening entanglement of state cyber operations with physical security</strong>.</p>
+<hr>
+<h2 id="1-industrialised-social-engineering">1. Industrialised Social Engineering</h2>
+<h3 id="dprk-job-fraud-malware--russian-activity-in-europe">DPRK Job-Fraud Malware &amp; Russian Activity in Europe</h3>
+<p><strong>North Korea intensified its Contagious Interview and ClickFake Interview operations</strong>, adding <em>197 new malicious npm packages</em> downloaded more than <em>31,000 times</em>. These packages delivered updated <strong>OtterCookie</strong> variants combining credential theft, crypto-wallet harvesting, browser data collection, and remote-shell access.<br>
+Source: <a href="https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html" target="_blank" rel="noopener noreffer ">The Hacker News</a></p>
+<p>The campaigns now reach beyond the familiar “DPRK IT-worker” schema: they weaponise <strong>recruitment and assessment workflows</strong>, using staged coding tasks, fake HR portals, and macOS decoy prompts to extract passwords and system information.</p>
+<p><strong>In Europe</strong>, Polish authorities detained a Russian national accused of hacking local firms, manipulating databases, and entering the country illegally before obtaining refugee status.<br>
+Source: <a href="https://therecord.media/poland-detains-russian-citizen-accused-of-hacks" target="_blank" rel="noopener noreffer ">The Record</a></p>
+<p>The arrest fits a wider pattern: Warsaw has linked over <strong>30 individuals of multiple nationalities</strong> to sabotage, arson, and intelligence operations tied to Russia.</p>
+<p><strong>Connecting the dots:</strong> these cases illustrate the same operational logic—<strong>targeting individuals performing routine tasks</strong> (job applicants, admins, employees) rather than exploiting technical vulnerabilities or zero-days. Human workflows remain high-yield access vectors.</p>
+<hr>
+<h2 id="2-ai-in-cybercrime">2. AI in Cybercrime</h2>
+<h3 id="useful-for-novices-technically-limited-for-operators">Useful for Novices, Technically Limited for Operators</h3>
+<p>Palo Alto Networks’ Unit 42 assessed <strong>WormGPT 4</strong> and <strong>KawaiiGPT</strong>, the two most prominent “dark LLMs” marketed as <em>“AI without boundaries.”</em><br>
+Source: <a href="https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals" target="_blank" rel="noopener noreffer ">Dark Reading</a></p>
+<p>Key findings:</p>
+<ul>
+<li>They generate <strong>basic phishing emails</strong>, <strong>simple exfiltration scripts</strong>, and boilerplate malware.</li>
+<li>They hallucinate code and require human correction.</li>
+<li>Their output is largely <strong>derivative of known malware</strong>, offering no breakthrough techniques.</li>
+<li>No evidence suggests that dark LLMs are reshaping high-end intrusion workflows.</li>
+</ul>
+<p>These tools mainly support <strong>low-skill hackers</strong>—smoothing language barriers and providing rudimentary code—not advanced operators seeking new tradecraft. Their impact is marginal compared to early predictions of AI-driven cyber escalation.</p>
+<hr>
+<h2 id="3-state-operations">3. State Operations</h2>
+<h3 id="cyber-reconnaissance-linked-to-kinetic-strikes--cloud-enabled-espionage">Cyber Reconnaissance Linked to Kinetic Strikes &amp; Cloud-Enabled Espionage</h3>
+<p>Amazon documented how <strong>Iranian groups</strong>—including <em>Imperial Kitten</em> and <em>MuddyWater</em>—used cyber intrusions to <strong>prepare missile strikes</strong> and assess post-strike damage.<br>
+Source: <a href="https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes" target="_blank" rel="noopener noreffer ">Dark Reading</a></p>
+<p>Activities included:</p>
+<ul>
+<li>Tampering with <strong>AIS maritime systems</strong></li>
+<li>Accessing <strong>shipboard CCTV</strong></li>
+<li>Using <strong>compromised Israeli camera feeds</strong> during strikes on Jerusalem</li>
+</ul>
+<p>This model—<strong>cyber-enabled kinetic targeting</strong>—collapses reconnaissance and strike cycles into a single operational continuum.</p>
+<p><strong>Meanwhile, China’s APT31</strong> conducted prolonged espionage against Russian IT contractors, misusing <strong>OneDrive</strong>, <strong>Dropbox</strong>, <strong>Yandex Cloud</strong>, and even <strong>VirusTotal comments</strong> for covert C2.<br>
+Source: <a href="https://www.darkreading.com/cyberattacks-data-breaches/china-spies-russian-it-orgs" target="_blank" rel="noopener noreffer ">Dark Reading</a></p>
+<p>Targeting IT integrators gives indirect access to government systems and critical projects, blurring commercial and strategic intelligence boundaries.</p>
+<p>Finally, an Australian national was sentenced to <strong>seven years</strong> for running in-flight <strong>evil-twin Wi-Fi networks</strong>, harvesting credentials and intimate images through fraudulent captive portals.<br>
+Source: <a href="https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison" target="_blank" rel="noopener noreffer ">BleepingComputer</a></p>
+<p>The case demonstrates how <strong>everyday digital environments</strong>—airport Wi-Fi, captive portals, travel hotspots—remain viable vectors for credential theft and covert surveillance.</p>
+<hr>
+<h2 id="implication">Implication</h2>
+<p>This week illustrates how threat actors increasingly <strong>corrupt trusted human workflows</strong> rather than exploit technical weaknesses. DPRK weaponises hiring routines; Russian-linked operators act from inside EU borders; Iran and China merge <strong>cyber reconnaissance with state objectives</strong>, using cloud services to mask operations. In parallel, dark LLMs empower novices but do <strong>not</strong> shift the strategic balance of cyber operations.</p>
+<p>Leaders should expect more campaigns exploiting ordinary digital interactions—<strong>job applications, cloud tools, travel Wi-Fi</strong>—and a continued trend where <strong>cyber reconnaissance directly shapes physical operations</strong>.</p>
+<hr>
+]]></description>
+</item>
+<item>
+    <title>How AI Automation Saved 13 Days per UK Civil Servant in 2024</title>
+    <link>http://localhost:1313/2025/how-ai-automation-saved-13-days-per-uk-civil-servant-in-2024/</link>
     <pubDate>Tue, 10 Jun 2025 07:27:09 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/2025/ai_time_savings/</guid>
-    <description><![CDATA[<h2 id="experiment-overview">Experiment Overview</h2>
-<p>Between September and December 2024, 20 000 UK Government civil servants participated in two parallel AI pilots:</p>
+    <guid>http://localhost:1313/2025/how-ai-automation-saved-13-days-per-uk-civil-servant-in-2024/</guid>
+    <description><![CDATA[<p>A recent <a href="https://www.gov.uk/government/news/landmark-government-trial-shows-ai-could-save-civil-servants-nearly-2-weeks-a-year" target="_blank" rel="noopener noreffer ">UK Government AI experiment</a> revealed that certain tasks can be fully automated, saving up to <strong>13 working days per person annually</strong>.</p>
+<p>The results are documented in two reports: <a href="https://www.turing.ac.uk/news/publications/mapping-potential-generative-ai-and-public-sector-work-using-time-use-data" target="_blank" rel="noopener noreffer "><em>Mapping the Potential</em></a> by the Alan Turing Institute, and The <a href="https://www.gov.uk/government/publications/microsoft-365-copilot-experiment-cross-government-findings-report" target="_blank" rel="noopener noreffer ">Government Digital Service’s</a> cross-government experiment of <strong>Microsoft 365 Copilot</strong></p>
+<p>Between September and December 2024, <strong>20,000 UK civil servants</strong> participated in the trial. The findings identified <strong>four fully automatable activities</strong>:</p>
 <ul>
-<li><strong>Mapping the Potential</strong> (Alan Turing Institute, June 2025) assessed generative-AI exposure across 80 public-sector activities using ONS time-use survey data :contentReference[oaicite:5]{index=5}.</li>
-<li><strong>Microsoft 365 Copilot Trial</strong> (Government Digital Service, Sept–Dec 2024) captured real-world AI interactions and user feedback across 15 civil-service professions :contentReference[oaicite:6]{index=6}.</li>
-</ul>
-<hr>
-<h2 id="time-savings-analysis">Time-Savings Analysis</h2>
-<p>Both studies identify four routine activities that AI can fully automate without human oversight:</p>
-<ul>
-<li>Organising meetings and related administration</li>
-<li>Creating or updating appointments/bookings</li>
-<li>Completing or processing standard forms</li>
+<li>Organising meetings and meeting administration</li>
+<li>Creating or updating appointments or bookings</li>
+<li>Completing or processing forms</li>
 <li>Creating or updating records, databases, or case files</li>
 </ul>
-<p>In the Copilot trial, participants reported:</p>
+<h1 id="key-insights-from-the-experiment">Key Insights from the Experiment</h1>
 <ul>
-<li><strong>26 minutes/day</strong> saved on document drafting</li>
-<li><strong>19 minutes/day</strong> saved on presentation preparation</li>
-<li><strong>13 working days</strong> saved per person per year (≈ 1 000 work-years across 20 000 participants) .</li>
-</ul>
-<hr>
-<h2 id="monetary-conversion">Monetary Conversion</h2>
-<ol>
-<li><strong>Median salary</strong> per civil servant (2024): £33 980</li>
-<li><strong>Daily cost</strong>: £33 980 ÷ 260 ≈ £130.69</li>
-<li><strong>Per-person saving</strong>: 13 days × £130.69 ≈ £1 699</li>
-<li><strong>Cohort saving</strong>: 20 000 × £1 699 ≈ £33.98 million</li>
-</ol>
-<hr>
-<h2 id="policy-implications">Policy Implications</h2>
-<ol>
-<li>
-<p><strong>Budgetary Reinvestment</strong><br>
-Redirect the £34 million annual efficiency dividend toward high-impact areas (e.g., digital infrastructure upgrades, frontline service enhancements), rather than reducing headcount.</p>
-</li>
-<li>
-<p><strong>Reskilling &amp; Role Redeployment</strong></p>
+<li><strong>82%</strong> of users expressed a preference not to return to pre-AI workflows.</li>
+<li><strong>Time savings</strong> were highest in:
 <ul>
-<li>Develop AI-augmented career pathways: equip civil servants with data-analysis, policy-writing, and digital-service design skills.</li>
-<li>Embed 20 hours/year of AI training into CPD curricula to standardize competency across grades and departments.</li>
+<li>Document drafting: <em>up to 24 minutes/day</em></li>
+<li>Presentation preparation: <em>19 minutes/day</em></li>
 </ul>
 </li>
-<li>
-<p><strong>Service Delivery Improvements</strong></p>
-<ul>
-<li>Freeing 13 working days per person can shorten application-processing backlogs by an estimated 10 %, improving citizen satisfaction and reducing wait times.</li>
-<li>Introduce performance metrics that track both speed (e.g., case turnaround) and quality (e.g., error rates, customer feedback).</li>
+<li>On average, <strong>13 working days</strong> were saved per person annually—equivalent to <strong>1,000 working years</strong> saved across all participants (assuming a 260-day working year).</li>
 </ul>
-</li>
-</ol>
+<h1 id="economic-implications">Economic Implications</h1>
+<p><a href="https://www.gov.uk/government/statistics/civil-service-statistics-2024/statistical-bulletin-civil-service-statistics-2024#:~:text=The%20median%20salary%20in%20the,of%20%c2%a32%2C060%20%286.5%25%29." target="_blank" rel="noopener noreffer ">The 2024 median annual salary for a UK civil servant was <strong>£33,980</strong>.</a> For 20,000 staff, the <strong>total annual payroll</strong> equates to:
+20,000 × £33,980 = £679,600,000</p>
+<p>Assuming a 260-day working year, the <strong>daily cost per civil servant</strong> is:
+£33,980 ÷ 260 ≈ £130.69</p>
+<p>A 13-day annual saving per person translates to:
+13 × £130.69 ≈ £1,699 per person/year</p>
+<p>For 20,000 civil servants, the total annual saving is:
+20,000 × £1,699 ≈ £33,980,000</p>
+<h1 id="some-policy-implications">Some Policy Implications</h1>
+<ul>
+<li><strong>Reallocation</strong> of budgetary resources to other priority areas</li>
+<li><strong>Reskilling</strong> staff for roles where AI still requires a human-in-the-loop</li>
+<li><strong>Faster public service delivery</strong>, enabled by freeing up 13 working days per employee</li>
+</ul>
 <hr>
-<h2 id="conclusion">Conclusion</h2>
-<p>These findings demonstrate that strategic integration of generative AI can deliver measurable productivity gains—freeing resources for higher-value public-service activities—provided implementation is accompanied by targeted training, robust governance, and transparent reinvestment of efficiency savings.</p>
+<p>This AI experiment demonstrates tangible productivity gains but also invites deeper reflection on how public-sector roles might evolve in the years to come.</p>
 ]]></description>
 </item>
 <item>
@@ -407,85 +447,6 @@ Participating firms could receive limited liability protections, akin to those p
 </li>
 </ul>
 <p><strong>Gazmend Huskaj</strong> is Head of Cyber Security at the Geneva Centre for Security Policy (GCSP), previously a doctoral student in offensive cyberspace operations at the Swedish Defence University and Director of Intelligence in cyber-related issues in the Swedish Armed Forces.</p>
-]]></description>
-</item>
-<item>
-    <title>Digital Geopolitics and the Imperative of Cyber Diplomacy: Shaping a Unified and Secure Cyberspace</title>
-    <link>http://localhost:1313/2023/digital-geopolitics-and-the-imperative-of-cyber-diplomacy-shaping-a-unified-and-secure-cyberspace/</link>
-    <pubDate>Fri, 15 Sep 2023 08:54:21 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>http://localhost:1313/2023/digital-geopolitics-and-the-imperative-of-cyber-diplomacy-shaping-a-unified-and-secure-cyberspace/</guid>
-    <description><![CDATA[<p></p>
-<p><strong>Note to readers:</strong> I was scheduled to participate in the panel discussion at the CyberPeace Summit 2023. However, due to unforeseen timing constraints and prior obligations that I could not reschedule, I was regrettably unable to present my intervention. As I believe the contents of this speech are critical and worth sharing, I have decided to publish it here for the broader audience. While I wasn’t able to deliver these thoughts virtually, I hope they provide value and insight to those interested in the topic.</p>
-<hr>
-<p> <br>
-Ladies and Gentlemen,<br>
-Esteemed delegates,</p>
-<p> </p>
-<p>Good morning. Good day and afternoon. I want to thank the Global CyberPeace Summit and Dialogues for organising and hosting this important event. As the title of this panel states, Internet Governance and Cyber Policy Dialogue have a role to play in ensuring an open and resilient cyberspace that benefits all humankind.</p>
-<p> <br>
-Today, I will highlight incidents and their consequences, discuss cyber diplomacy, and touch upon digital geopolitics. The critical interplay between diplomacy and cyberspace will become more evident by the end.</p>
-<p> <br>
-This is more critical than you may think:</p>
-<p>Imagine if threat actors could infiltrate companies managing the IT of thousands of clients.</p>
-<p>In 2017, a report was released detailing cyber espionage campaigns of another country. The report uses various analysis methods to attribute the cyber espionage campaign to a specific threat actor.</p>
-<p>The attackers targeted companies that manage their customer&rsquo;s IT and systems. These companies, also known as managed systems providers, have access to their customer&rsquo;s networks.</p>
-<p>As you can imagine, managed systems providers are very lucrative targets for cyber espionage attacks.</p>
-<p>According to the report, once a threat actor has gained access, and I quote, &ldquo;it is likely to be relatively straightforward to exploit this and move laterally onto the networks of potentially thousands of other victims.&rdquo;</p>
-<p>The targets included industries, and I quote, in &ldquo;information technology, high-tech electronics, financial services, satellites and telecommunications, energy, public administration, scientific research and consulting, chemicals, and aerospace.&rdquo;</p>
-<p>Another threat actor has targeted governments, private companies, the media, and other organisations.</p>
-<p>What are the implications of cyber espionage campaigns?<br>
-In 2014, three world-leading companies suffered cyber espionage. In 2017, one filed for bankruptcy, one declared bankruptcy, and the third traded at less than half of pre-attack levels.</p>
-<p> <br>
-Let&rsquo;s discuss some other attacks.<br>
-In 2021, threat actors conducted a ransomware attack on Colonial Pipeline. Colonial Pipeline is the largest refined products pipeline in the United States, transporting more than 100 million gallons or 2.5 million barrels per day. Colonial transports approximately 45 per cent of all fuel consumed on the East Coast, providing refined products to more than 50 million Americans.</p>
-<p>The threat actors demanded 75 bitcoins, which were equivalent to USD 4.4 million at that time. This attack impacted the US&rsquo;s political, economic, and social systems.</p>
-<p> <br>
-In 2021, a private company stated that a threat actor was inside another neighbouring country&rsquo;s energy and power plant&rsquo;s IT systems.</p>
-<p>In 2022, just as the Russian aggression towards Ukraine began, Ukrainian agencies were hit by cyberattacks. In addition, the cyberattacks also hit satellite operator Viasat. Why? The threat actor intended to attack Ukrainian military command and control systems. However, the attack had secondary/tertiary effects by striking civilian infrastructure operated by Viasat.</p>
-<p>These examples showcase how national security interests are furthered in and through cyberspace.</p>
-<p> <br>
-Cyberspace is increasingly used for cyberespionage, cyber-ransom attacks, misinformation, and disinformation campaigns, attacking the information environment and, in turn, the cognitive dimension of humans.</p>
-<p> <br>
-These incidents offer a backdrop for the importance of our discussion today.</p>
-<p>Therefore, we must understand the challenges to tackle them together.</p>
-<p> <br>
-So what do we do about this?<br>
-Cyber diplomacy and dialogue have a vital role to play, and so does deterrence.</p>
-<p>I published a research article reviewing the policy landscape of cyber deterrence and dialogue. In 2017, scholars said, and I quote, &ldquo;protecting or advancing national interests cannot merely rely on deterrence: shaping behaviour requires &lsquo;active cyber operations&rsquo;.&rdquo;</p>
-<p>In 2018, another scholar stated that Information systems are always vulnerable: states that are &ldquo;not constrained by the etiquette and rules of Western law&rdquo; will exercise cyber power by combining it with &ldquo;conventional military and intelligence assets.&rdquo;</p>
-<p>In 2019, a third scholar covered the topic of a policy of persistent engagement, strategic stability, superiority, and forward defence. The same year, a framework to assess policy in persistent engagement was published.</p>
-<p>Additionally, in 2019, another scholar reviewed the opportunities and limits that international law provides.</p>
-<p>In 2020, a different scholar stated, &ldquo;There is opportunity to shape behaviour in cyberspace, but so are potential risks of escalation.&rdquo;</p>
-<p>&ldquo;The prospects of this strategy are ambiguous&rdquo;, and only through the &ldquo;accumulation of empirical experience in the application of this strategy&rdquo; will the advantages become apparent.</p>
-<p>The same scholar said that diplomatic dialogue, be it behind the scenes or covert dialogue, is critical to ensure that communication between states occurs at all levels, from peace to crisis and un-peace.</p>
-<p> <br>
-And Cyber Diplomacy does indeed have a role to play.</p>
-<p> <br>
-Remember the Colonial Pipeline case I mentioned earlier? Once Colonial Pipeline identified the attack, they contacted a cyber security company to investigate and respond.</p>
-<p>They also notified Law enforcement and the federal government authorities of the attack. The pipeline was taken offline to reduce the risk of exposure to the operational network. The CEO of Colonial Pipeline took the difficult decision to pay the ransom of 75 bitcoins ($4.4 million).</p>
-<p>On the political level, President Joe Biden declared the event a state emergency. The Department of Justice gave US agencies and their allies the legal authority to recover the bitcoins, approximately USD 2.3 million.</p>
-<p>Finally, in June 2021, at the President Biden and President Putin summit in Geneva, the two Presidents held a dialogue on arms control cybersecurity and the Colonial Pipeline ransomware attack.</p>
-<p>This is just one illustration of how crucial cyber diplomacy and global collaboration are in today&rsquo;s interconnected globe.</p>
-<p> <br>
-Cyberspace has also implications for digital geopolitics. In another research article I published, it became evident that technology has always been at the heart of geopolitics.</p>
-<p>When we were exploring the seas, it became vital to secure sea transport lanes. This led to the notion of Sea power.</p>
-<p>As technology and innovation continued and the discovery of the steam engine, we had trains that could transport resources faster than sea transport. Thus, it became vital to secure these transports, hence land power.</p>
-<p>And with the discovery of the aeroplane, we could transport traditional mail and other resources even faster. Hence, it was essential to discuss air power.</p>
-<p>The same logic applies to space power. And today, with these cyber systems that are the backbone of everything we do online, it is crucial to discuss cyber power.</p>
-<p>Therefore, digital geopolitics is about analysing internetworked information systems, or cyberspace, that, combined with geographic features of Earth and space, impact world politics and a country&rsquo;s political, military, economic and social systems.</p>
-<p> <br>
-It is evident that malign entities exploit vulnerabilities for cyber espionage and cyber attacks.</p>
-<p>Furthermore, malign entities use cyberspace to conduct misinformation and disinformation campaigns. The target here is humankind&rsquo;s cognitive vulnerabilities.</p>
-<p>The consequence of cyber attacks on companies is that some go bankrupt.</p>
-<p>The consequences of misinformation and disinformation are that some citizen groups engage in hate speech and violence.</p>
-<p> <br>
-One policy response has been the notion of cyber deterrence and persistent engagement. But what encapsulates everything is that cyber diplomacy and dialogue always have a role to play.</p>
-<p>Let us not be deterred by malign entities because we know that digital geopolitics impacts a state&rsquo;s political, military, economic and social systems.</p>
-<p>Together, through cyber diplomacy and dialogue, we&rsquo;re not just combating cyber threats but ensuring that current and future generations enjoy an open and resilient cyberspace that benefits all humankind.</p>
-<p>Thank you again to the Global CyberPeace Summit and Dialogues for organising and hosting this important event. I wish you fruitful dialogue and discussions on these very important topics.</p>
-<p> <br>
-Thank you.</p>
 ]]></description>
 </item>
 </channel>

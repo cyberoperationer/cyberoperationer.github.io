@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geopolitics on Cyberspace Operations</title>
+    <link>http://localhost:1313/tags/geopolitics/</link>
+    <description>Recent content in Geopolitics on Cyberspace Operations</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Dec 2025 08:54:12 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/geopolitics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Executive Cyber Briefing – Last Week’s Risks in Context</title>
+      <link>http://localhost:1313/2025/executive-cyber-briefing-last-weeks-risks-in-context/</link>
+      <pubDate>Mon, 01 Dec 2025 08:54:12 +0100</pubDate>
+      <guid>http://localhost:1313/2025/executive-cyber-briefing-last-weeks-risks-in-context/</guid>
+      <description>Three themes emerged this week: industrialised social-engineering pipelines, the uneven impact of AI-enabled tools on cybercrime, and the deepening entanglement of state cyber operations with physical security.</description>
+    </item>
+  </channel>
+</rss>

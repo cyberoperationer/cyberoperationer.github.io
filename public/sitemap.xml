@@ -2,11 +2,17 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/2025/ai_time_savings/</loc><lastmod>2025-06-10T07:27:09&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-06-10T07:27:09&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2025-06-10T07:27:09&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/2025/revisiting-the-letter-of-marque/</loc><lastmod>2025-05-25T21:08:05&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
-            <loc>http://localhost:1313/2025/safeguarding-innovation/</loc><lastmod>2025-05-15T08:05:18&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>http://localhost:1313/tags/ai/</loc><lastmod>2025-12-01T08:54:12&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/cybersecurity/</loc><lastmod>2025-12-01T08:54:12&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2025-12-01T08:54:12&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/2025/executive-cyber-briefing-last-weeks-risks-in-context/</loc><lastmod>2025-12-01T08:54:12&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/geopolitics/</loc><lastmod>2025-12-01T08:54:12&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/intelligence/</loc><lastmod>2025-12-01T08:54:12&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2025-12-01T08:54:12&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2025-12-01T08:54:12&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/2025/how-ai-automation-saved-13-days-per-uk-civil-servant-in-2024/</loc><lastmod>2025-06-10T07:27:09&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/2025/revisiting-the-letter-of-marque/</loc><lastmod>2025-05-25T21:08:05&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/2025/safeguarding-innovation/</loc><lastmod>2025-05-15T08:05:18&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/2025/rapid-affordable-ai-transforming-cost-speed-and-strategic-capability/</loc><lastmod>2025-02-16T21:30:25&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/2025/policy-implications-of-state-backed-apts-use-of-ai-in-cyberspace/</loc><lastmod>2025-02-03T12:24:05&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/2025/a-sputnik-moment-in-ai/</loc><lastmod>2025-02-02T17:57:01&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
@@ -24,5 +30,4 @@
             <loc>http://localhost:1313/exed/</loc><lastmod>2022-07-02T18:40:12&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/talks/</loc><lastmod>2022-07-02T18:40:12&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/publications/</loc><lastmod>2022-07-02T11:40:12&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>http://localhost:1313/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

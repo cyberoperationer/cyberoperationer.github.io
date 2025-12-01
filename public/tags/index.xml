@@ -1,7 +1,40 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Tags - Tag - Cyberspace Operations</title>
-        <link>http://localhost:1313/tags/</link>
-        <description>Tags - Tag - Cyberspace Operations</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cyberspace Operations</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Cyberspace Operations</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Dec 2025 08:54:12 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Mon, 01 Dec 2025 08:54:12 +0100</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity</title>
+      <link>http://localhost:1313/tags/cybersecurity/</link>
+      <pubDate>Mon, 01 Dec 2025 08:54:12 +0100</pubDate>
+      <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geopolitics</title>
+      <link>http://localhost:1313/tags/geopolitics/</link>
+      <pubDate>Mon, 01 Dec 2025 08:54:12 +0100</pubDate>
+      <guid>http://localhost:1313/tags/geopolitics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intelligence</title>
+      <link>http://localhost:1313/tags/intelligence/</link>
+      <pubDate>Mon, 01 Dec 2025 08:54:12 +0100</pubDate>
+      <guid>http://localhost:1313/tags/intelligence/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>
